@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "pricing-fortal"
+version = "0.1.0"
+description = "Análise do Mercado Imobiliário na Cidade de Fortaleza/CE"
+authors = ["datalopes1 <datalopes1@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+scrapy = "^2.12.0"
+pandas = "^2.2.3"
+numpy = "1.26.4"
+sqlalchemy = "^2.0.40"
+duckdb = "^1.2.2"
+ipython = "^9.1.0"
+matplotlib = "^3.10.1"
+seaborn = "^0.13.2"
+plotly = "^6.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

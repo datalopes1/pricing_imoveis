@@ -1,0 +1,3 @@
+.venv/
+src/extract/__pycache__
+src/extract/spiders/__pycache__
