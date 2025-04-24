@@ -9,31 +9,22 @@ def gerar_id():
     """
     return str(uuid.uuid4())
 
-df = pd.read_json("data/raw/lopes.json")
+df = pd.read_json("data/raw/chaves_casas.json")
 
-# Limpeza de nulos e duplicados
-df.dropna(subset='preco', inplace=True)
-df.drop_duplicates(inplace=True)
-
-# Limpeza das colunas com dtype FLOAT
 for col in ['preco', 'condo']:
     df.fillna({col: '0'}, inplace=True)
     df[col] = df[col].astype(str).str.replace('[^0-9]', '', regex=True)
+    df[col] = df[col].replace('', '0')
     df[col] = df[col].astype(float)
 
-# Limpeza das colunas com dtype INT
 for col in ['area', 'quartos', 'banheiros', 'vagas']:
-    df.fillna({col: 0}, inplace=True)
-    df[col] = df[col].astype(str).str.replace('[^0-9d]', '', regex=True)
+    df.fillna({col: '0'}, inplace=True)
     df[col] = df[col].astype(int)
 
-# Limpeza na localização
-df['localizacao'] = df['localizacao'].astype(str).str.split(',', expand=True)[1]
-df['localizacao'] = df['localizacao'].astype(str).str.split('-', expand=True)[0]
-df['localizacao'] = df['localizacao'].astype(str).str.strip()
+df['localizacao'] = df['localizacao'].astype(str).str.split(',', expand=True)[0]
 
 # Adição de metadados
-df['origem'] = 'Lopes'
+df['origem'] = 'Chaves na Mão'
 df['timestamp_extracao'] = datetime.now()
 df['id'] = df.apply(lambda row: gerar_id(), axis=1)
 
@@ -89,7 +80,7 @@ df = duckdb.sql(
     """
 ).to_df()
 
-df.to_csv("data/processed/lopes.csv", index=False)
+df.to_csv("data/processed/chaves_casas.csv", index=False)
 print(df.head())
 print(df.info())
 print(f"\nDados salvos na pasta data/processed/")

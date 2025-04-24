@@ -9,31 +9,22 @@ def gerar_id():
     """
     return str(uuid.uuid4())
 
-df = pd.read_json("data/raw/lopes.json")
+df = pd.read_json("data/raw/chaves_condominio.json")
 
-# Limpeza de nulos e duplicados
-df.dropna(subset='preco', inplace=True)
-df.drop_duplicates(inplace=True)
-
-# Limpeza das colunas com dtype FLOAT
 for col in ['preco', 'condo']:
     df.fillna({col: '0'}, inplace=True)
     df[col] = df[col].astype(str).str.replace('[^0-9]', '', regex=True)
+    df[col] = df[col].replace('', '0')
     df[col] = df[col].astype(float)
 
-# Limpeza das colunas com dtype INT
 for col in ['area', 'quartos', 'banheiros', 'vagas']:
-    df.fillna({col: 0}, inplace=True)
-    df[col] = df[col].astype(str).str.replace('[^0-9d]', '', regex=True)
+    df.fillna({col: '0'}, inplace=True)
     df[col] = df[col].astype(int)
 
-# Limpeza na localização
-df['localizacao'] = df['localizacao'].astype(str).str.split(',', expand=True)[1]
-df['localizacao'] = df['localizacao'].astype(str).str.split('-', expand=True)[0]
-df['localizacao'] = df['localizacao'].astype(str).str.strip()
+df['localizacao'] = df['localizacao'].astype(str).str.split(',', expand=True)[0]
 
 # Adição de metadados
-df['origem'] = 'Lopes'
+df['origem'] = 'Chaves na Mão'
 df['timestamp_extracao'] = datetime.now()
 df['id'] = df.apply(lambda row: gerar_id(), axis=1)
 
@@ -63,16 +54,8 @@ df = duckdb.sql(
             WHEN localizacao IN ('Mondubim', 'Canindezinho', 'Parque São José', 'Conjunto Esperança', 'Maraponga', 'Novo Mondubim', 'Jardim Cearense') THEN 'SER10'
             WHEN localizacao IN ('Pici', 'Bela Vista', 'Couto Fernandes', 'Henrique Jorge', 'Genibaú', 'Conjunto Ceará', 'Democrito Rocha', 'Dom Lustosa', 'João Xxiii') THEN 'SER11'
             WHEN localizacao IN ('Jóquei Clube','Centro', 'Moura Brasil', 'Praia de Iracema') THEN 'SER12'
-		    ELSE 'Outro'
+		ELSE 'Outro'
 	    END AS ser
-        , CASE
-            WHEN localizacao IN ('Benfica', 'José Bonifácio', 'Joaquim Távora', 'Aldeota', 'Meireles', 'Jacarecanga', 'Farias Brito', 'Praia de Iracema', 'Moura Brasil') THEN 'Sim'
-            ELSE 'Não'
-        END AS prox_centro
-        , CASE
-            WHEN localizacao IN ('Praia do Futuro', 'Meireles', 'Mucuripe', 'Mucuripe', 'Praia de Iracema', 'Barra do Ceará', 'Cais do Porto', 'Sabiaguaba') THEN 'Sim'
-            ELSE 'Não'
-        END AS prox_orla
         , area
         , quartos
         , banheiros
@@ -86,10 +69,11 @@ df = duckdb.sql(
         AND quartos > 0
         AND banheiros > 0
         AND preco >= 70000
+        AND quartos <= 10
     """
 ).to_df()
 
-df.to_csv("data/processed/lopes.csv", index=False)
+df.to_csv("data/processed/chaves_condominio.csv", index=False)
 print(df.head())
 print(df.info())
 print(f"\nDados salvos na pasta data/processed/")

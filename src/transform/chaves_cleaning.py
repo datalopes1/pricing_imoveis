@@ -48,16 +48,40 @@ df = duckdb.sql(
         , origem
         , tipo
         , CASE 
-            WHEN LOWER(localizacao) LIKE '%praia do futuro%' THEN 'Praia do Futuro' 
+            WHEN LOWER(localizacao) LIKE '%praia do futuro%' THEN 'Praia do Futuro'
+            WHEN LOWER(localizacao) LIKE '%conjunto ceará%' THEN 'Conjunto Ceará'
+            WHEN LOWER(localizacao) LIKE '%coité%' THEN 'Coité' 
             ELSE localizacao 
         END AS localizacao
+        , CASE 
+            WHEN localizacao IN ('Barra do Ceará', 'Jacarecanga', 'Pirambu', 'Cristo Redentor', 'Carlito Pamplona', 'Jardim Iracema', 'Floresta', 'Álvaro Weyne', 'Vila Velha') THEN 'SER1'
+            WHEN localizacao IN ('Aldeota', 'Meireles', 'Varjota', 'Papicu', 'Mucuripe', 'Cais do Porto', 'Joaquim Távora', 'Dionísio Torres', 'São João do Tauape', 'Dionisio Torres', 'de Lourdes', 'Vicente Pinzon') THEN 'SER2'
+            WHEN localizacao IN ('Rodolfo Teófilo','São Gerardo','Antônio Bezerra', 'Quintino Cunha', 'Olavo Oliveira', 'Padre Andrade', 'Presidente Kennedy', 'Vila Ellery', 'Monte Castelo', 'Amadeu Furtado', 'Farias Brito', 'Parquelândia') THEN 'SER3'
+            WHEN localizacao IN ('Benfica', 'José Bonifácio', 'Fátima', 'Damas', 'Parangaba', 'Vila Peri', 'Aeroporto', 'Montese', 'Vila União') THEN 'SER4'
+            WHEN localizacao IN ('Granja Lisboa', 'Granja Portugal', 'Bom Jardim', 'Siqueira', 'Bonsucesso') THEN 'SER5'
+            WHEN localizacao IN ('Paupina','Jardim das Oliveiras','Cidade dos Funcionários', 'Parque Manibura', 'Cambeba', 'Messejana', 'Curió', 'Lagoa Redonda', 'Alto da Balança', 'Coaçu', 'José de Alencar', 'São Bento', 'Parque Iracema') THEN 'SER6'
+            WHEN localizacao IN ('Patriolino Ribeiro','Praia do Futuro', 'Cocó', 'Cidade 2000', 'Sabiaguaba', 'Edson Queiroz', 'Guararapes', 'Engenheiro Luciano Cavalcante', 'Sapiranga', 'Manoel Dias Branco') THEN 'SER7'
+            WHEN localizacao IN ('Serrinha', 'Boa Vista', 'Parque Dois Irmãos', 'Passaré', 'Prefeito José Walter', 'Castelão', 'Boa Vista Castelão', 'Dias Macedo','Dendê', 'Itaperi', 'Planalto Ayrton Senna') THEN 'SER8'
+            WHEN localizacao IN ('Cajazeiras', 'Barroso', 'Conjunto Palmeiras', 'Jangurussu', 'Parque Santa Maria', 'Ancuri', 'Pedras') THEN 'SER9'
+            WHEN localizacao IN ('Mondubim', 'Canindezinho', 'Parque São José', 'Conjunto Esperança', 'Maraponga', 'Novo Mondubim', 'Jardim Cearense') THEN 'SER10'
+            WHEN localizacao IN ('Pici', 'Bela Vista', 'Couto Fernandes', 'Henrique Jorge', 'Genibaú', 'Conjunto Ceará', 'Democrito Rocha', 'Dom Lustosa', 'João Xxiii') THEN 'SER11'
+            WHEN localizacao IN ('Jóquei Clube','Centro', 'Moura Brasil', 'Praia de Iracema') THEN 'SER12'
+		    ELSE 'Outro'
+	    END AS ser
+        , CASE
+            WHEN localizacao IN ('Benfica', 'José Bonifácio', 'Joaquim Távora', 'Aldeota', 'Meireles', 'Jacarecanga', 'Farias Brito', 'Praia de Iracema', 'Moura Brasil') THEN 'Sim'
+            ELSE 'Não'
+        END AS prox_centro
+        , CASE
+            WHEN localizacao IN ('Praia do Futuro', 'Meireles', 'Mucuripe', 'Mucuripe', 'Praia de Iracema', 'Barra do Ceará', 'Cais do Porto', 'Sabiaguaba') THEN 'Sim'
+            ELSE 'Não'
+        END AS prox_orla
         , area
         , quartos
         , banheiros
         , vagas
         , condo
         , preco
-        , ROUND((preco/area)::DECIMAL, 2) AS preco_m2
         , timestamp_extracao
     FROM df
     WHERE
@@ -65,11 +89,10 @@ df = duckdb.sql(
         AND quartos > 0
         AND banheiros > 0
         AND preco >= 70000
-        AND quartos <= 10
     """
-).df()
+).to_df()
 
-df.to_csv("data/processed/chaves.csv", index=False)
+df.to_csv("data/processed/chaves_apts.csv", index=False)
 print(df.head())
 print(df.info())
 print(f"\nDados salvos na pasta data/processed/")
