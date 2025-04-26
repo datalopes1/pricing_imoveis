@@ -17,6 +17,9 @@ ipython = "^9.1.0"
 matplotlib = "^3.10.1"
 seaborn = "^0.13.2"
 plotly = "^6.0.1"
+streamlit = "^1.44.1"
+scipy = "^1.15.2"
+statsmodels = "^0.14.4"
 
 
 [build-system]

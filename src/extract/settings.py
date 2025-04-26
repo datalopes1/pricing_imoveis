@@ -1,4 +1,4 @@
-# Scrapy settings for coleta project
+# Scrapy settings for extract project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,10 +7,10 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = "coleta"
+BOT_NAME = "extract"
 
-SPIDER_MODULES = ["coleta.spiders"]
-NEWSPIDER_MODULE = "coleta.spiders"
+SPIDER_MODULES = ["extract.spiders"]
+NEWSPIDER_MODULE = "extract.spiders"
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
@@ -45,13 +45,13 @@ ROBOTSTXT_OBEY = False
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    "coleta.middlewares.ColetaSpiderMiddleware": 543,
+#    "extract.middlewares.extractSpiderMiddleware": 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    "coleta.middlewares.ColetaDownloaderMiddleware": 543,
+#    "extract.middlewares.extractDownloaderMiddleware": 543,
 #}
 
 # Enable or disable extensions
@@ -63,7 +63,7 @@ ROBOTSTXT_OBEY = False
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    "coleta.pipelines.ColetaPipeline": 300,
+#    "extract.pipelines.extractPipeline": 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)

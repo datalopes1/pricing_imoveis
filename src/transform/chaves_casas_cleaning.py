@@ -54,14 +54,14 @@ df = duckdb.sql(
             WHEN localizacao IN ('Mondubim', 'Canindezinho', 'Parque São José', 'Conjunto Esperança', 'Maraponga', 'Novo Mondubim', 'Jardim Cearense') THEN 'SER10'
             WHEN localizacao IN ('Pici', 'Bela Vista', 'Couto Fernandes', 'Henrique Jorge', 'Genibaú', 'Conjunto Ceará', 'Democrito Rocha', 'Dom Lustosa', 'João Xxiii') THEN 'SER11'
             WHEN localizacao IN ('Jóquei Clube','Centro', 'Moura Brasil', 'Praia de Iracema') THEN 'SER12'
-		    ELSE 'Outro'
+		    ELSE 'Outros'
 	    END AS ser
         , CASE
             WHEN localizacao IN ('Benfica', 'José Bonifácio', 'Joaquim Távora', 'Aldeota', 'Meireles', 'Jacarecanga', 'Farias Brito', 'Praia de Iracema', 'Moura Brasil') THEN 'Sim'
             ELSE 'Não'
         END AS prox_centro
         , CASE
-            WHEN localizacao IN ('Praia do Futuro', 'Meireles', 'Mucuripe', 'Mucuripe', 'Praia de Iracema', 'Barra do Ceará', 'Cais do Porto', 'Sabiaguaba') THEN 'Sim'
+            WHEN localizacao IN ('Praia do Futuro', 'Meireles', 'Mucuripe', 'Praia de Iracema', 'Barra do Ceará', 'Cais do Porto', 'Sabiaguaba') THEN 'Sim'
             ELSE 'Não'
         END AS prox_orla
         , area
@@ -80,7 +80,7 @@ df = duckdb.sql(
     """
 ).to_df()
 
-df.to_csv("data/processed/chaves_casas.csv", index=False)
+df.to_csv("data/interim/chaves_casas.csv", index=False)
 print(df.head())
 print(df.info())
 print(f"\nDados salvos na pasta data/processed/")

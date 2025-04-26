@@ -1,0 +1,665 @@
+id,origem,tipo,localizacao,ser,prox_centro,prox_orla,area,quartos,banheiros,vagas,condo,preco,timestamp_extracao
+9f632570-71bd-4930-84b8-c12b938abad0,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,180,3,3,4,780.0,750000.0,2025-04-23 23:21:16.006554
+0a9cfaf9-7b00-4697-a50e-2c62f0f9189e,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,150,3,4,3,980.0,490000.0,2025-04-23 23:21:16.006554
+c331af68-9197-44d7-a22e-69d1e3429c25,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,170,5,4,4,900.0,530000.0,2025-04-23 23:21:16.006554
+52cd82fe-9638-4f37-9173-644eed36b01d,Chaves na Mão,Condomínio,Cajazeiras,SER9,Não,Não,212,4,5,4,800.0,950000.0,2025-04-23 23:21:16.006554
+645c0d23-0a4a-4159-92af-3931a8fb4127,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,122,3,3,2,700.0,770000.0,2025-04-23 23:21:16.006554
+1bd267f2-2cd3-4fef-9994-5c792cb29a5d,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,233,4,4,2,650.0,2000000.0,2025-04-23 23:21:16.006554
+df9798d3-8aa4-4980-97e6-6e53f0954126,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,85,3,2,2,570.0,330000.0,2025-04-23 23:21:16.006554
+72f59c44-62bb-4186-b5ba-162be8b6a6ec,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,288,5,7,4,2300.0,2700000.0,2025-04-23 23:21:16.006554
+b9c803e7-e921-4506-a4cb-328324517fe9,Chaves na Mão,Condomínio,Parque Manibura,SER6,Não,Não,170,3,4,3,800.0,620000.0,2025-04-23 23:21:16.006554
+68ee7522-bfce-42c4-8297-871836261d90,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,201,4,5,4,300.0,990000.0,2025-04-23 23:21:16.006554
+70f12daf-3e72-491c-b59f-e2b9de3d00d8,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,140,3,3,3,700.0,440000.0,2025-04-23 23:21:16.006554
+83ff6eab-e0ad-472c-8063-2ed3222f3f0a,Chaves na Mão,Condomínio,Parque Manibura,SER6,Não,Não,354,3,2,3,100.0,600000.0,2025-04-23 23:21:16.006554
+4c2661c7-4059-4fd9-bc90-c6e4e858569b,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,334,4,6,4,2080.0,2890000.0,2025-04-23 23:21:16.006554
+33dcfae5-997b-4dc7-be58-c6fe171631b3,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,140,3,3,3,700.0,440000.0,2025-04-23 23:21:16.006554
+10be232d-36dd-4463-9f38-ecb6838713d4,Chaves na Mão,Condomínio,Manoel Dias Branco,SER7,Não,Não,98,3,2,2,700.0,379000.0,2025-04-23 23:21:16.006554
+d4ba249c-52c8-4eed-b42e-ef3653eb4eda,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,205,4,4,2,1100.0,1050000.0,2025-04-23 23:21:16.006554
+f1761f79-76f2-475a-a4e5-0aa214316b7f,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,72,3,2,2,500.0,295000.0,2025-04-23 23:21:16.006554
+28debd0a-1a65-4a94-b21e-af766258612e,Chaves na Mão,Condomínio,Coité,Outros,Não,Não,244,4,6,4,2071.0,1490000.0,2025-04-23 23:21:16.006554
+4f6eb073-501a-42b4-bff1-8de70e3753c5,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,186,4,5,3,1300.0,995000.0,2025-04-23 23:21:16.006554
+1147603d-4e73-42e4-ba07-fa0b92bc8a83,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,96,3,4,2,500.0,375000.0,2025-04-23 23:21:16.006554
+ca8fb613-79ce-4498-9b97-c2eac46702da,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,110,3,3,2,0.0,782000.0,2025-04-23 23:21:16.006554
+dd58841c-bd90-45f7-9941-c44e98279285,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,180,4,5,4,604.0,449000.0,2025-04-23 23:21:16.006554
+3bb87584-244a-4f88-8925-33f7f6fc66b8,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,98,3,3,2,650.0,495000.0,2025-04-23 23:21:16.006554
+5c46b205-6005-44fe-88de-bd091f58b672,Chaves na Mão,Condomínio,Praia de Iracema,SER12,Sim,Sim,150,2,3,1,0.0,580000.0,2025-04-23 23:21:16.006554
+d3c7f99f-9aae-4896-b454-8c9f58a553ba,Chaves na Mão,Condomínio,Guajerú,Outros,Não,Não,62,2,1,2,190.0,350000.0,2025-04-23 23:21:16.006554
+20828316-7fd0-48cd-a151-9f5491644c81,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,550,5,7,10,1250.0,7500000.0,2025-04-23 23:21:16.006554
+2173ef23-161e-448b-af3d-6b0008e51ca0,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,134,4,4,2,600.0,520000.0,2025-04-23 23:21:16.006554
+3ec045e5-ee7b-432f-981a-bbc0a433cf06,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,96,3,3,2,600.0,360000.0,2025-04-23 23:21:16.006554
+8c1add64-3cf8-45df-9ac8-28e5cfff2966,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,80,2,2,4,165.0,290000.0,2025-04-23 23:21:16.006554
+250ecdff-e764-4e0c-87cc-d65e5aad9895,Chaves na Mão,Condomínio,Sabiaguaba,SER7,Não,Sim,190,4,4,3,1050.0,998000.0,2025-04-23 23:21:16.006554
+940b7c23-37f7-42ad-8636-ee65eb805b7c,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,800,6,8,6,2500.0,6000000.0,2025-04-23 23:21:16.006554
+174e01f8-ab1e-4d7d-9494-253a5bc86b29,Chaves na Mão,Condomínio,Sabiaguaba,SER7,Não,Sim,148,4,5,2,1100.0,799000.0,2025-04-23 23:21:16.006554
+25e082a9-fff9-4df5-9772-4527c9cbf832,Chaves na Mão,Condomínio,Parque Santa Maria,SER9,Não,Não,70,2,3,2,380.0,229000.0,2025-04-23 23:21:16.006554
+e8163f60-1de3-494f-b85a-6814bdb8c10a,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,125,4,2,2,450.0,380000.0,2025-04-23 23:21:16.006554
+d525e189-4996-4ba3-87eb-cb35b41a2514,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,380,5,8,5,2349.0,2690000.0,2025-04-23 23:21:16.006554
+e2fbb3d8-29b1-42fd-9cb9-31695a1e6815,Chaves na Mão,Condomínio,Mondubim,SER10,Não,Não,76,3,2,3,300.0,300000.0,2025-04-23 23:21:16.006554
+71cc4cb6-46dd-4a62-b29a-cd2f10200617,Chaves na Mão,Condomínio,Cidade dos Funcionários,SER6,Não,Não,152,4,4,2,0.0,820000.0,2025-04-23 23:21:16.006554
+a6d9fef1-fa5a-41d3-a353-0bf7dacf544b,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,225,3,4,4,2000.0,1300000.0,2025-04-23 23:21:16.006554
+e90b74c1-a5f3-4fb0-b5ad-841d207306ec,Chaves na Mão,Condomínio,Prefeito José Walter,SER8,Não,Não,59,2,2,1,245.0,298000.0,2025-04-23 23:21:16.006554
+31eb8392-1204-4f72-a12e-2814af7b803c,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,118,4,3,3,580.0,550000.0,2025-04-23 23:21:16.006554
+9d5ed8c4-d4fb-4c5f-9e12-22fbe0d9374a,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,212,4,5,3,800.0,1900000.0,2025-04-23 23:21:16.006554
+91a495e2-33e5-4c54-9ac4-efc6cd390205,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,238,4,5,4,0.0,1990000.0,2025-04-23 23:21:16.006554
+85148828-063d-40b1-b5d6-a8ab24a320e4,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,150,3,3,4,500.0,550000.0,2025-04-23 23:21:16.006554
+ff31c257-624e-4b85-818c-6c2075ac5526,Chaves na Mão,Condomínio,Alagadiço Novo,Outros,Não,Não,190,3,5,6,0.0,1349300.0,2025-04-23 23:21:16.006554
+d6726bfb-99d2-4f2d-8487-84be594043bd,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,350,4,5,4,1200.0,1500000.0,2025-04-23 23:21:16.006554
+b38c5dc8-4273-4800-b3c0-7d09d0f52a57,Chaves na Mão,Condomínio,Centro,SER12,Não,Não,414,3,4,4,980.0,3890000.0,2025-04-23 23:21:16.006554
+63e49c9e-0312-4e99-9af3-686392eba31f,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,160,3,4,2,1000.0,780000.0,2025-04-23 23:21:16.006554
+ca9c5115-115e-4122-bb7b-8cf2cf63000b,Chaves na Mão,Condomínio,Dunas,Outros,Não,Não,185,4,5,2,11.0,1628308.0,2025-04-23 23:21:16.006554
+19efbc20-1bb7-44a7-951a-3b69b306eae1,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,95,3,2,2,800.0,310000.0,2025-04-23 23:21:16.006554
+3940a4b7-f724-44fc-8e8e-046ba88aa2c0,Chaves na Mão,Condomínio,Dunas,Outros,Não,Não,220,4,4,3,1129.0,1663259.0,2025-04-23 23:21:16.006554
+4b192274-dc3e-4f1c-a620-b70a91702d3a,Chaves na Mão,Condomínio,Jangurussu,SER9,Não,Não,68,2,2,1,450.0,190000.0,2025-04-23 23:21:16.006554
+49d73528-6c7c-4b10-8c5b-301f7904195d,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,134,4,5,2,600.0,520000.0,2025-04-23 23:21:16.006554
+85eebe80-52cc-4686-8a59-41c2d84bfc92,Chaves na Mão,Condomínio,Henrique Jorge,SER11,Não,Não,200,3,2,2,300.0,379000.0,2025-04-23 23:21:16.006554
+275da3e9-fb41-4dd0-99bc-a41291ea65c0,Chaves na Mão,Condomínio,Jardim Cearense,SER10,Não,Não,226,5,5,3,585.0,2200000.0,2025-04-23 23:21:16.006554
+90355819-deb4-442f-b98b-794834db4870,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,44,2,1,2,210.0,198000.0,2025-04-23 23:21:16.006554
+9a5127f4-9bfc-4ad4-8b0f-18bffec0703d,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,154,2,4,2,950.0,780000.0,2025-04-23 23:21:16.006554
+e995213a-6970-4a79-99c8-e38f7cfe303d,Chaves na Mão,Condomínio,Eusébio,Outros,Não,Não,98,3,2,2,0.0,379000.0,2025-04-23 23:21:16.006554
+47cbec91-56e4-4ee9-9117-0f5599cb5aa8,Chaves na Mão,Condomínio,Messejana,SER6,Não,Não,134,3,4,2,50.0,730000.0,2025-04-23 23:21:16.006554
+9482e023-90ff-42ad-b786-c87baa1b3acb,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,190,4,5,4,1095.0,695000.0,2025-04-23 23:21:16.006554
+b112cdaa-d64e-4183-a251-d5ead6d1c57c,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,90,3,2,2,200.0,350000.0,2025-04-23 23:21:16.006554
+2cc8dbd6-6f1c-4cd1-96e8-09d8957e8bb6,Chaves na Mão,Condomínio,Coité,Outros,Não,Não,200,4,5,4,1095.0,830000.0,2025-04-23 23:21:16.006554
+6b05502d-0fc7-4e5d-8713-3f1899b8baad,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,320,4,4,4,580.0,2200000.0,2025-04-23 23:21:16.006554
+84e95ef3-575c-4ce1-a666-48ae9b8887fb,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,90,3,3,2,50.0,350000.0,2025-04-23 23:21:16.006554
+bf1bff8b-fc8d-4026-9fd7-f7da39545255,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,120,3,3,2,970.0,499999.0,2025-04-23 23:21:16.006554
+95ac83fc-86dc-46d2-b7b3-4c186f523520,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,205,4,5,3,900.0,1100000.0,2025-04-23 23:21:16.006554
+3d3cd803-68c1-4cb4-8fc6-1e6ea9ab25d2,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,200,4,5,3,1095.0,760000.0,2025-04-23 23:21:16.006554
+41113e0f-78f1-41f1-b978-10c9629a8a80,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,176,4,5,2,495.0,560000.0,2025-04-23 23:21:16.006554
+fa84ea67-02dd-407e-ba64-03b2a143e2d9,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,100,3,3,3,580.0,450000.0,2025-04-23 23:21:16.006554
+ceced274-97d8-4a30-b0ad-82385cc8afb1,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,187,3,4,4,500.0,1000000.0,2025-04-23 23:21:16.006554
+0248b7d1-fdce-476f-a149-9964058b2ef7,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,111,3,4,2,650.0,750000.0,2025-04-23 23:21:16.006554
+eb448bd3-46a0-499a-8f8f-1db44660a692,Chaves na Mão,Condomínio,Parque Santa Maria,SER9,Não,Não,70,3,3,2,380.0,290000.0,2025-04-23 23:21:16.006554
+0b2a8155-4800-4f1a-8d95-d2ad25d6f17e,Chaves na Mão,Condomínio,Coaçu,SER6,Não,Não,303,4,6,2,700.0,2200000.0,2025-04-23 23:21:16.006554
+b0f97f14-c74f-44fa-8fbd-eb340f5e290b,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,148,3,4,3,0.0,936139.0,2025-04-23 23:21:16.006554
+5f564e2d-a546-4e82-9958-74b814370bd6,Chaves na Mão,Condomínio,Cambeba,SER6,Não,Não,246,3,3,4,0.0,560000.0,2025-04-23 23:21:16.006554
+43db482d-19dc-45cd-bf5c-8c0a1c565058,Chaves na Mão,Condomínio,Sabiaguaba,SER7,Não,Sim,180,4,3,3,0.0,1416765.0,2025-04-23 23:21:16.006554
+5bf55efc-2ce2-4d00-9a98-649f5e67e24b,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,200,4,5,4,2500.0,1500000.0,2025-04-23 23:21:16.006554
+567ee119-5ae4-4a04-af58-1a2b88553bba,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,90,3,2,2,500.0,370000.0,2025-04-23 23:21:16.006554
+cf19cd49-428b-4e4c-9ad0-940c9db8e02c,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,92,2,2,1,380.0,220000.0,2025-04-23 23:21:16.006554
+f4a9e322-b309-4185-ab8c-856f3fa83a17,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,101,3,3,2,2800.0,545000.0,2025-04-23 23:21:16.006554
+5c10be88-9a7f-4f4c-8fae-3bc4b40fb1b7,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,650,5,7,6,700.0,5900000.0,2025-04-23 23:21:16.006554
+3a020342-f0c7-4dca-bd09-9974cc303c8a,Chaves na Mão,Condomínio,Parque Iracema,SER6,Não,Não,106,5,5,4,0.0,550000.0,2025-04-23 23:21:16.006554
+d3d8c3bf-193b-4f19-bbc0-0927ed603e2e,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,90,3,3,2,500.0,370000.0,2025-04-23 23:21:16.006554
+41af51a5-ecf1-4384-81ce-4ed0abd6d359,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,280,4,5,2,0.0,1550000.0,2025-04-23 23:21:16.006554
+22e31fcb-9beb-44aa-b622-17ffd034b8fe,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,280,4,3,5,2300.0,1500000.0,2025-04-23 23:21:16.006554
+d84309e5-03e7-4c6d-be77-dfbb4151c5d8,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,86,3,3,2,0.0,532000.0,2025-04-23 23:21:16.006554
+eb5036c6-40c7-408c-8fb1-85f2970581fe,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,206,3,4,3,0.0,1100000.0,2025-04-23 23:21:16.006554
+dad09185-a9fa-491e-bb4d-b92f2b30ecb4,Chaves na Mão,Condomínio,Cidade dos Funcionários,SER6,Não,Não,288,3,5,6,0.0,850000.0,2025-04-23 23:21:16.006554
+d7b9f7b4-442b-4eb5-9aef-94e5b5fc9e07,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,208,3,5,2,1840.0,1500000.0,2025-04-23 23:21:16.006554
+d661a87b-8248-454b-a5d2-fb373317e047,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,86,3,4,2,400.0,539999.0,2025-04-23 23:21:16.006554
+68d1da9c-287d-4fa0-9091-bb6600feb7c5,Chaves na Mão,Condomínio,Cidade dos Funcionários,SER6,Não,Não,346,4,5,4,0.0,1300000.0,2025-04-23 23:21:16.006554
+f6945f5b-d271-44ac-8e39-3410ddc3ffee,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,101,3,3,2,500.0,543000.0,2025-04-23 23:21:16.006554
+29c2bf39-6cf5-41ad-b834-3cad659b325a,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,62,3,3,2,420.0,360000.0,2025-04-23 23:21:16.006554
+5c6e675c-2fc5-4b56-9da5-ff63c303732c,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,154,4,4,2,850.0,750000.0,2025-04-23 23:21:16.006554
+62f4e5f2-88da-4f22-b8a7-a332a1e38998,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,186,3,4,3,1200.0,995000.0,2025-04-23 23:21:16.006554
+06eaae74-32f8-4b31-b1f7-7e5bc971988b,Chaves na Mão,Condomínio,Cambeba,SER6,Não,Não,248,4,4,3,2150.0,850000.0,2025-04-23 23:21:16.006554
+461a72d2-a5b9-4aed-b306-eebebd0a6bbe,Chaves na Mão,Condomínio,Barroso,SER9,Não,Não,76,2,3,2,0.0,318000.0,2025-04-23 23:21:16.006554
+4c40510e-c51a-4df1-af50-9c6aae6409d9,Chaves na Mão,Condomínio,Sabiaguaba,SER7,Não,Sim,206,3,3,3,0.0,1103130.0,2025-04-23 23:21:16.006554
+962a76c0-246b-4b54-bd8f-d64c46f57fa0,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,380,5,7,4,980.0,3900000.0,2025-04-23 23:21:16.006554
+97cf9a0a-a9fc-4d8b-bc05-a76eccd425ad,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,181,4,3,3,1720.0,1050000.0,2025-04-23 23:21:16.006554
+e289ce42-8e66-4503-b40d-9c37db4dcb08,Chaves na Mão,Condomínio,Antônio Diogo,Outros,Não,Não,265,3,5,4,0.0,2990000.0,2025-04-23 23:21:16.006554
+1ecf9e70-2c42-474e-be50-79077069b5c9,Chaves na Mão,Condomínio,Manoel Dias Branco,SER7,Não,Não,138,3,4,3,700.0,479000.0,2025-04-23 23:21:16.006554
+127f76a8-6069-40e7-aeda-52b0a53a1aed,Chaves na Mão,Condomínio,Coité,Outros,Não,Não,220,5,5,4,1095.0,595000.0,2025-04-23 23:21:16.006554
+f1b245ca-6263-42a5-86c9-2aae6cd43c2b,Chaves na Mão,Condomínio,Cidade dos Funcionários,SER6,Não,Não,188,3,4,2,1300.0,899999.0,2025-04-23 23:21:16.006554
+592ba772-a22e-41ac-bb7b-168ea5966633,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,200,4,5,4,1550.0,1150000.0,2025-04-23 23:21:16.006554
+8f629831-a2f2-4099-8d60-b5eb27890d69,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,209,4,4,3,550.0,1600000.0,2025-04-23 23:21:16.006554
+3bc5912f-d21c-486d-be7b-806109e1766d,Chaves na Mão,Condomínio,Cidade dos Funcionários,SER6,Não,Não,180,3,4,3,1250.0,598000.0,2025-04-23 23:21:16.006554
+2b29355a-b637-48c7-a5f2-f98dd44520c7,Chaves na Mão,Condomínio,Mondubim,SER10,Não,Não,118,4,3,3,580.0,550000.0,2025-04-23 23:21:16.006554
+ae411b27-9501-408c-a48b-35540fda3d9f,Chaves na Mão,Condomínio,Alagadiço,Outros,Não,Não,277,3,4,3,1900.0,1300000.0,2025-04-23 23:21:16.006554
+3efd5cc6-4fca-4e80-a1d8-05f26e234b08,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,200,4,5,3,0.0,660000.0,2025-04-23 23:21:16.006554
+e18dfddb-3e1c-4638-9fb0-f64f2b62d3b2,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,115,3,3,2,575.0,320000.0,2025-04-23 23:21:16.006554
+f03c3db8-af2a-4013-9183-65dce37eb385,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,170,4,4,2,300.0,699000.0,2025-04-23 23:21:16.006554
+d6c20681-2ed9-4bef-995a-d11901f74491,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,111,2,3,2,650.0,660000.0,2025-04-23 23:21:16.006554
+4fe90d77-7f3b-450a-9533-de77f0036a3a,Chaves na Mão,Condomínio,Curió,SER6,Não,Não,132,3,5,2,0.0,649990.0,2025-04-23 23:21:16.006554
+bbaddc91-c9bd-4e3a-806d-e4b2c63ab6da,Chaves na Mão,Condomínio,Serrinha,SER8,Não,Não,540,4,4,2,0.0,595000.0,2025-04-23 23:21:16.006554
+d2f9ff68-90da-43a4-b11d-dbcec81aa634,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,212,4,5,4,670.0,1900000.0,2025-04-23 23:21:16.006554
+e8d4d644-4dc3-4271-8ae6-16d573737692,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,86,3,3,2,10.0,545000.0,2025-04-23 23:21:16.006554
+3fe9dd7c-4055-47ba-9738-ca3c55ba69b1,Chaves na Mão,Condomínio,Cocó,SER7,Não,Não,220,3,5,5,258.0,1400000.0,2025-04-23 23:21:16.006554
+ec9c2406-b842-4d3e-90c2-57c1f93139fa,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,654,4,4,7,0.0,10000000.0,2025-04-23 23:21:16.006554
+1ac9c89d-d86e-4ae7-a396-25cbde184c5d,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,277,4,4,3,1900.0,1300000.0,2025-04-23 23:21:16.006554
+f41aa30a-2cb8-4939-8897-fde776428a25,Chaves na Mão,Condomínio,Curió,SER6,Não,Não,186,3,4,3,1200.0,920000.0,2025-04-23 23:21:16.006554
+34fabe82-ebb8-45ce-8428-8396d7181588,Chaves na Mão,Condomínio,Benfica,SER4,Sim,Não,506,6,3,5,0.0,1400000.0,2025-04-23 23:21:16.006554
+ed1d9418-5b76-48a9-beed-4d68456cf8c7,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,325,4,5,4,2300.0,3700000.0,2025-04-23 23:21:16.006554
+fddbfc67-ce58-4362-8df9-d3ed27d6e7a6,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,217,4,6,5,1100.0,795000.0,2025-04-23 23:21:16.006554
+a6e88f6d-d988-4c76-8aa9-0330b083ca67,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,93,3,2,4,650.0,580000.0,2025-04-23 23:21:16.006554
+eacf3a8f-dbcd-471a-966e-ebe5cebd1f05,Chaves na Mão,Condomínio,Meireles,SER2,Sim,Sim,660,3,5,5,0.0,3000000.0,2025-04-23 23:21:16.006554
+d220d205-fe38-440d-8af0-30a003924ae0,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,127,3,2,2,440.0,440000.0,2025-04-23 23:21:16.006554
+169d7bf3-b156-4c9c-87ee-63ccf948efe7,Chaves na Mão,Condomínio,Itaperi,SER8,Não,Não,70,3,2,2,547.0,399000.0,2025-04-23 23:21:16.006554
+075be3e8-01cd-4387-be07-34d07566dbc5,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,196,4,5,4,1550.0,1100000.0,2025-04-23 23:21:16.006554
+49529205-6bf1-4bf2-a4ed-636266f6796f,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,324,5,5,6,1200.0,3500000.0,2025-04-23 23:21:16.006554
+ba986a37-7e7d-41a1-94a1-073f903b1c95,Chaves na Mão,Condomínio,Manoel Dias Branco,SER7,Não,Não,78,3,2,2,0.0,340000.0,2025-04-23 23:21:16.006554
+dba0b0d5-7ac1-4ca6-a78c-86ee2a7a210f,Chaves na Mão,Condomínio,Praia do Futuro,Outros,Não,Não,185,3,4,2,1129.0,1663259.0,2025-04-23 23:21:16.006554
+3a16f0ca-78b3-4c18-8d92-3a790db9f37e,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,240,4,4,4,1028.0,1350000.0,2025-04-23 23:21:16.006554
+83ebe24a-7eaf-418a-b7a7-5caac3420438,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,277,3,3,3,2000.0,1300000.0,2025-04-23 23:21:16.006554
+6b08d300-0d1b-4271-9d62-14bcc65b9204,Chaves na Mão,Condomínio,Messejana,SER6,Não,Não,78,3,2,2,630.0,280000.0,2025-04-23 23:21:16.006554
+67b62ff9-8363-4c70-b827-107af01b3d8a,Chaves na Mão,Condomínio,Messejana,SER6,Não,Não,85,2,2,2,360.0,318000.0,2025-04-23 23:21:16.006554
+584eb683-05b9-4577-a4a7-c0f60956548a,Chaves na Mão,Condomínio,Itaperi,SER8,Não,Não,80,2,3,2,570.0,400000.0,2025-04-23 23:21:16.006554
+de88a178-dcbd-46fb-b20b-9585874d249a,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,100,3,3,2,0.0,782000.0,2025-04-23 23:21:16.006554
+fd127b87-b075-47f2-a4bb-9c01e4ace8e8,Chaves na Mão,Condomínio,Coaçu,SER6,Não,Não,540,5,6,5,0.0,1050000.0,2025-04-23 23:21:16.006554
+5d83b4e2-bd90-4774-a5d0-d6e3cb5a4b01,Chaves na Mão,Condomínio,Cambeba,SER6,Não,Não,83,2,2,1,450.0,319000.0,2025-04-23 23:21:16.006554
+6bbb8dcf-b1a5-4b78-9f7e-ce9c95ce7d53,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,193,4,5,3,50.0,1416765.0,2025-04-23 23:21:16.006554
+15ff6e5c-cbf0-412c-b693-af38b3b1da1d,Chaves na Mão,Condomínio,Parque Manibura,SER6,Não,Não,150,3,5,3,800.0,550000.0,2025-04-23 23:21:16.006554
+13fb86bb-891a-440a-95e3-9e2237fa3173,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,145,3,4,2,1660.0,720000.0,2025-04-23 23:21:16.006554
+f53fd18d-92bc-4a9f-adfc-5732d18f6981,Chaves na Mão,Condomínio,Praia do Futuro,Outros,Não,Não,117,3,3,3,685.0,995757.0,2025-04-23 23:21:16.006554
+f07156ee-b43d-4254-9500-07a15b90bf87,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,145,3,4,4,970.0,650000.0,2025-04-23 23:21:16.006554
+27a90be7-fc4c-4208-99ae-d96a5d7aa561,Chaves na Mão,Condomínio,Messejana,SER6,Não,Não,80,2,3,2,80.0,250000.0,2025-04-23 23:21:16.006554
+6911646e-878c-482b-bf22-5e7bb87bd0d4,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,148,3,4,3,1150.0,940000.0,2025-04-23 23:21:16.006554
+d5d8c39b-4772-4aee-b485-a0dd84954bff,Chaves na Mão,Condomínio,Barroso,SER9,Não,Não,123,2,1,2,170.0,165000.0,2025-04-23 23:21:16.006554
+aac0aeb3-7d4b-49dc-b960-b6e1e866facb,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,200,3,3,3,600.0,1550000.0,2025-04-23 23:21:16.006554
+41c2fca8-c0b9-44d0-86f9-ffcfc3f25d26,Chaves na Mão,Condomínio,Sabiaguaba,SER7,Não,Sim,149,4,5,2,0.0,860000.0,2025-04-23 23:21:16.006554
+95423d5c-ef33-418a-a82c-9d2d12007022,Chaves na Mão,Condomínio,Sabiaguaba,SER7,Não,Sim,186,3,4,3,770.0,1103000.0,2025-04-23 23:21:16.006554
+66268c19-1e4b-4595-9179-33c7c74217f8,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,53,3,2,2,300.0,299990.0,2025-04-23 23:21:16.006554
+7e2bb551-3b2b-4e99-ad88-e1107f51b4f2,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,145,3,3,2,1000.0,770000.0,2025-04-23 23:21:16.006554
+a710adc1-8582-4159-ae6c-9c1ecc21a649,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,260,4,4,4,800.0,1700000.0,2025-04-23 23:21:16.006554
+82fb56ef-23e8-4350-be8c-c75f4212c9a6,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,500,4,5,4,0.0,3450000.0,2025-04-23 23:21:16.006554
+aef59d0c-37ac-464e-9dc5-cc7809f80191,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,181,3,4,2,1550.0,1050000.0,2025-04-23 23:21:16.006554
+abdb7bcd-a848-4355-a39e-a6119aa4ed2a,Chaves na Mão,Condomínio,Cambeba,SER6,Não,Não,220,3,4,3,0.0,850000.0,2025-04-23 23:21:16.006554
+1826164c-092c-4a12-939d-042e9d121b16,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,199,4,5,4,1550.0,1175000.0,2025-04-23 23:21:16.006554
+57e2fee8-451e-47e8-ae25-6ed66cac4ecb,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,220,4,5,3,1095.0,830000.0,2025-04-23 23:21:16.006554
+5f69d439-5ff1-4796-9e2f-42ef3c4a58fd,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,240,5,4,5,1700.0,995000.0,2025-04-23 23:21:16.006554
+28bfd342-48c8-4164-b1ac-1b995c876633,Chaves na Mão,Condomínio,Aquiraz,Outros,Não,Não,168,3,4,4,250.0,924000.0,2025-04-23 23:21:16.006554
+58bb2240-c165-4c02-a2f9-b979de86a0aa,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,180,3,4,4,1100.0,750000.0,2025-04-23 23:21:16.006554
+8bf3fae4-7f3d-4993-9518-1fe67a6c4934,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,390,3,3,5,0.0,550000.0,2025-04-23 23:21:16.006554
+2a21da30-47a9-40fb-9530-b131a10191c0,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,100,3,2,2,0.0,350000.0,2025-04-23 23:21:16.006554
+a1b60280-d306-45f2-9a84-8670fd1bc028,Chaves na Mão,Condomínio,Mondubim,SER10,Não,Não,92,3,3,1,390.0,339999.0,2025-04-23 23:21:16.006554
+069cb6de-733f-4f52-9c89-8a9c652f9737,Chaves na Mão,Condomínio,Cambeba,SER6,Não,Não,228,4,6,4,800.0,750000.0,2025-04-23 23:21:16.006554
+b452261e-78b2-4264-b1ab-eca7755c33f5,Chaves na Mão,Condomínio,Jardim das Oliveiras,SER6,Não,Não,212,3,4,3,960.0,750000.0,2025-04-23 23:21:16.006554
+6181cb73-aef3-41fe-a9f5-66432ef7a674,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,500,6,8,6,1850.0,2790000.0,2025-04-23 23:21:16.006554
+e20de8ae-8924-40cb-8969-1bd04d5d2f38,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,201,4,5,6,300.0,990000.0,2025-04-23 23:21:16.006554
+0bea1c86-bc6d-4fd3-a560-7595865b9f8d,Chaves na Mão,Condomínio,Dunas,Outros,Não,Não,470,5,8,6,1450.0,5200000.0,2025-04-23 23:21:16.006554
+69259dd2-48e4-42ee-9bd0-a589637f2528,Chaves na Mão,Condomínio,Dunas,Outros,Não,Não,536,4,5,4,2100.0,3350000.0,2025-04-23 23:21:16.006554
+3aac7561-c594-431c-abe1-ad6618b20e62,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,900,4,7,6,2500.0,20000000.0,2025-04-23 23:21:16.006554
+60b580a4-6e24-4885-a6c9-7e5b45a8a8d9,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,180,3,4,3,950.0,750000.0,2025-04-23 23:21:16.006554
+19bdd488-a079-4e86-adaa-b0797a62fef2,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,420,5,6,6,1250.0,2800000.0,2025-04-23 23:21:16.006554
+f4432e93-0a74-4f48-921d-e41ed899d18e,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,315,5,6,5,2000.0,2700000.0,2025-04-23 23:21:16.006554
+1ea668a5-9dfa-4c8c-80d6-92cbc29acdb8,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,141,3,4,2,672.0,540000.0,2025-04-23 23:21:16.006554
+b660a93e-6833-4ad6-afa4-ea1759e4df52,Chaves na Mão,Condomínio,Messejana,SER6,Não,Não,131,3,5,2,1050.0,599900.0,2025-04-23 23:21:16.006554
+cab3fb33-76ed-4e24-9de3-3df1268b77a5,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,600,4,5,5,2000.0,6000000.0,2025-04-23 23:21:16.006554
+a227ebb4-50e4-4399-8bff-bec445e52df6,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,77,3,2,2,500.0,284000.0,2025-04-23 23:21:16.006554
+f1c5f99a-b19f-410f-97f2-56580d054505,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,161,4,5,3,1100.0,660000.0,2025-04-23 23:21:16.006554
+eaee21d5-8a59-4792-bdf6-8fd2376ba20e,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,305,4,5,4,800.0,2900000.0,2025-04-23 23:21:16.006554
+5f2d8df6-bf61-4a9c-9564-4f6995ef142b,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,420,4,5,4,980.0,4350000.0,2025-04-23 23:21:16.006554
+48d62866-0a92-4f4e-bd61-725dd9792252,Chaves na Mão,Condomínio,Praia do Futuro,SER7,Não,Sim,117,3,4,2,685.0,975000.0,2025-04-23 23:21:16.006554
+2b9c204d-b01c-48cd-a396-ffa10cd508c8,Chaves na Mão,Condomínio,Parque Santa Maria,SER9,Não,Não,70,3,3,2,380.0,229000.0,2025-04-23 23:21:16.006554
+5a993f39-d503-4bfb-bfde-4ca478490c19,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,150,3,2,3,300.0,340000.0,2025-04-23 23:21:16.006554
+1b7e502c-03de-48f9-a2a4-bff05d32d59a,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,100,3,3,2,360.0,350000.0,2025-04-23 23:21:16.006554
+912f4a55-4bc0-4b4a-a6ed-6cbc9a2a9c52,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,260,4,5,5,0.0,450000.0,2025-04-23 23:21:16.006554
+fb42db1a-4ba4-4638-9268-5a233b1bbc0b,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,200,3,4,4,1150.0,1300000.0,2025-04-23 23:21:16.006554
+592cb823-9217-44bc-88f2-cc1a9f7b0636,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,176,4,4,4,0.0,980000.0,2025-04-23 23:21:16.006554
+3146fe06-8f82-4336-8ea9-7efccb9a921a,Chaves na Mão,Condomínio,Messejana,SER6,Não,Não,120,2,3,2,380.0,229000.0,2025-04-23 23:21:16.006554
+3b555dd4-57fa-4cf4-ba7f-987a2a5836d0,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,330,4,4,3,0.0,2995000.0,2025-04-23 23:21:16.006554
+1dcf030b-d45e-4911-81c3-a3c077a0ca3c,Chaves na Mão,Condomínio,Joaquim Távora,SER2,Sim,Não,522,4,5,5,0.0,1300000.0,2025-04-23 23:21:16.006554
+3bf2d43c-86ba-41bd-8edf-0cc24b976cff,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,79,2,2,2,300.0,290000.0,2025-04-23 23:21:16.006554
+bd7a4369-4543-48cf-b033-d6e62fc0c390,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,750,5,7,8,1800.0,9500000.0,2025-04-23 23:21:16.006554
+ecee7f26-3c6f-499d-8939-168bb9f6b4a7,Chaves na Mão,Condomínio,Messejana,SER6,Não,Não,103,3,4,2,50.0,429000.0,2025-04-23 23:21:16.006554
+0c793336-9986-417d-8108-6d1b0a92e71d,Chaves na Mão,Condomínio,Papicu,SER2,Não,Não,132,3,4,2,700.0,490000.0,2025-04-23 23:21:16.006554
+3b291ca6-717b-41e0-9f25-d262580f1847,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,134,4,4,2,600.0,520000.0,2025-04-23 23:21:16.006554
+efcfd570-889c-4667-b186-e4a758b57d1b,Chaves na Mão,Condomínio,Praia do Futuro,SER7,Não,Sim,185,3,4,2,1181.0,1606387.0,2025-04-23 23:21:16.006554
+51362eda-c74d-446c-bd20-f6f74f4842e8,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,172,3,3,2,950.0,1040000.0,2025-04-23 23:21:16.006554
+e041f524-4b10-4e30-94fa-a0795d0afc8e,Chaves na Mão,Condomínio,Coité,Outros,Não,Não,134,4,5,2,600.0,520000.0,2025-04-23 23:21:16.006554
+ca44dc90-b0b0-4e24-9c56-7c1e1ef35785,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,400,4,5,2,0.0,1450000.0,2025-04-23 23:21:16.006554
+e430981e-957d-4475-bca3-e8f7517554bb,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,75,3,3,2,490.0,289000.0,2025-04-23 23:21:16.006554
+535991c2-cfa5-4040-9305-22c37a3f8697,Chaves na Mão,Condomínio,Cidade dos Funcionários,SER6,Não,Não,205,4,4,4,1312.0,1080000.0,2025-04-23 23:21:16.006554
+ee33024c-4d0a-44f0-91e5-46d73ea352d1,Chaves na Mão,Condomínio,Ancuri,SER9,Não,Não,90,3,2,2,0.0,310000.0,2025-04-23 23:21:16.006554
+cd932ab6-9532-4974-b5cd-dc3072f09a6e,Chaves na Mão,Condomínio,Eusébio,Outros,Não,Não,140,3,4,2,0.0,450000.0,2025-04-23 23:21:16.006554
+837180ed-b1c7-40f5-87f0-ef655607f6c3,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,557,4,4,4,3400.0,4250000.0,2025-04-23 23:21:16.006554
+7e615d70-6374-45a0-a31c-ff703d8e4677,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,274,3,4,3,613.0,1700000.0,2025-04-23 23:21:16.006554
+a138381b-e1b1-4c92-a560-e8bd0b49e683,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,235,4,6,4,980.0,2700000.0,2025-04-23 23:21:16.006554
+1db5b32d-34a7-4f06-b0a9-02fe517db1cf,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,112,3,2,2,0.0,458900.0,2025-04-23 23:21:16.006554
+445c0deb-6a19-437f-9b63-42c81db17318,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,400,4,6,4,2300.0,2990000.0,2025-04-23 23:21:16.006554
+716e444b-a980-4d66-9a3c-b26050989e4b,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,215,4,4,5,0.0,1065000.0,2025-04-23 23:21:16.006554
+0adbe6c7-dc88-49ec-ba38-6fd7529c87c0,Chaves na Mão,Condomínio,Parque Manibura,SER6,Não,Não,116,3,3,3,800.0,550000.0,2025-04-23 23:21:16.006554
+21adb2a9-9346-4ade-b209-a3026a4aa963,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,330,5,6,4,1100.0,2750000.0,2025-04-23 23:21:16.006554
+80103d08-94a2-4719-89f7-de0de6ecc6af,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,580,5,4,6,0.0,2000000.0,2025-04-23 23:21:16.006554
+652f9473-6631-47f6-8f19-e2bc4fee237b,Chaves na Mão,Condomínio,Eusébio,Outros,Não,Não,138,3,3,2,0.0,500000.0,2025-04-23 23:21:16.006554
+99777f5e-d766-40e2-a6b8-8e2a57ad35c9,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,200,4,4,4,100.0,590000.0,2025-04-23 23:21:16.006554
+9f8bd344-633a-43e6-a1d7-1ab9aba9dd1c,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,457,5,7,4,1040.0,4300000.0,2025-04-23 23:21:16.006554
+6a0670fe-dbbd-411d-92d5-c6f8232a573c,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,176,4,5,3,1050.0,1030000.0,2025-04-23 23:21:16.006554
+6cdc874a-7ab6-4bdf-9775-94bfe3ebefbc,Chaves na Mão,Condomínio,Montese,SER4,Não,Não,116,3,4,2,630.0,549999.0,2025-04-23 23:21:16.006554
+d5d9e248-f10d-4872-8af8-9630c4df8033,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,256,3,4,5,0.0,1200000.0,2025-04-23 23:21:16.006554
+0d7700ba-8042-4e3f-89d9-9dafd14d0f2a,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,90,3,2,2,500.0,370000.0,2025-04-23 23:21:16.006554
+7f511731-cddb-4e5a-a849-17a4e4f28961,Chaves na Mão,Condomínio,Cidade dos Funcionários,SER6,Não,Não,152,4,4,2,0.0,820000.0,2025-04-23 23:21:16.006554
+ba981985-9f75-4aed-8ec5-a59d991dbc3d,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,240,4,5,4,580.0,1880000.0,2025-04-23 23:21:16.006554
+4a18d7dd-602e-4ec2-a780-246bf8472ccd,Chaves na Mão,Condomínio,Messejana,SER6,Não,Não,131,3,4,4,1040.0,630000.0,2025-04-23 23:21:16.006554
+08b739de-1df1-4129-b912-9a1b3ffd1b62,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,181,4,4,3,1720.0,1050000.0,2025-04-23 23:21:16.006554
+fab2501a-5e3e-4fd6-8779-e1652a827ea5,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,194,3,4,2,1300.0,890000.0,2025-04-23 23:21:16.006554
+8ac9f821-e045-4791-88f8-7d52c9f19465,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,103,3,4,2,650.0,400000.0,2025-04-23 23:21:16.006554
+09247f97-3c3f-4d8e-95cc-85ce371c6a75,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,212,4,3,4,0.0,2000000.0,2025-04-23 23:21:16.006554
+22b1c545-a03f-462b-8205-1231a1a52768,Chaves na Mão,Condomínio,Jangurussu,SER9,Não,Não,67,2,2,1,0.0,225000.0,2025-04-23 23:21:16.006554
+7e4ad098-2257-4428-8baa-d6363a971266,Chaves na Mão,Condomínio,Sabiaguaba,SER7,Não,Sim,229,3,4,3,1180.0,1380000.0,2025-04-23 23:21:16.006554
+ddb7e371-929c-46dd-ae3d-232e6bfdf2b9,Chaves na Mão,Condomínio,Coité,Outros,Não,Não,278,3,5,2,2000.0,1300000.0,2025-04-23 23:21:16.006554
+1a7cff72-2039-4126-af33-736e1b761053,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,165,3,4,3,700.0,580000.0,2025-04-23 23:21:16.006554
+1422e63c-8300-4a97-addf-6ebc53fc90cd,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,290,4,5,4,0.0,2900000.0,2025-04-23 23:21:16.006554
+3b75a4bd-b2fa-47dd-8b77-990254589652,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,170,4,3,4,0.0,650000.0,2025-04-23 23:21:16.006554
+b3553f54-4ca5-4e81-8ba6-12fb1c222d95,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,478,4,5,5,0.0,1150000.0,2025-04-23 23:21:16.006554
+108302a5-1018-4371-892d-4f0e164ce6e7,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,180,3,3,3,950.0,795000.0,2025-04-23 23:21:16.006554
+95d1b59a-893e-4e66-8e09-ff4e7b379c25,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,145,3,4,2,1660.0,720000.0,2025-04-23 23:21:16.006554
+c2c4d53b-b4b0-4da1-8721-fae3261e88eb,Chaves na Mão,Condomínio,Manoel Dias Branco,SER7,Não,Não,265,3,3,4,0.0,3200000.0,2025-04-23 23:21:16.006554
+410bff4d-5aa4-4e70-b67c-639fbf4dbc84,Chaves na Mão,Condomínio,Parque Manibura,SER6,Não,Não,212,3,4,3,1107.0,550000.0,2025-04-23 23:21:16.006554
+f63d2011-85c1-4b96-8d6c-78fee0cbf14d,Chaves na Mão,Condomínio,Dunas,Outros,Não,Não,180,3,4,2,1600.0,750000.0,2025-04-23 23:21:16.006554
+4cd0419c-3708-4ec8-b8a9-2c55b5ef68f5,Chaves na Mão,Condomínio,Cidade dos Funcionários,SER6,Não,Não,207,4,4,4,980.0,790000.0,2025-04-23 23:21:16.006554
+8c03dcb3-1abe-4687-a37c-7db7b25252de,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,923,5,7,8,1500.0,9000000.0,2025-04-23 23:21:16.006554
+b92e8889-f516-4cf1-8541-76f1235b9caa,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,883,6,7,11,0.0,13000000.0,2025-04-23 23:21:16.006554
+9ba0527d-dcd8-401f-8cf2-66e6a8784cda,Chaves na Mão,Condomínio,Messejana,SER6,Não,Não,69,2,2,2,350.0,220000.0,2025-04-23 23:21:16.006554
+9867a241-0131-45b2-8ce4-4044196a6413,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,74,4,3,4,350.0,450000.0,2025-04-23 23:21:16.006554
+562233e0-e0bf-43c1-b1d2-baeb3304613f,Chaves na Mão,Condomínio,Praia do Futuro,Outros,Não,Não,117,3,4,2,950.0,1005740.0,2025-04-23 23:21:16.006554
+78cafc80-2df5-4239-961c-3c3aa54663f3,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,277,3,4,2,1900.0,1300000.0,2025-04-23 23:21:16.006554
+9488b40e-50eb-4293-ba43-89cc094e6b54,Chaves na Mão,Condomínio,Montese,SER4,Não,Não,153,3,1,4,0.0,330000.0,2025-04-23 23:21:16.006554
+3c2ebc57-16aa-4d58-8e89-5c9af2235ac9,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,135,3,3,4,600.0,499000.0,2025-04-23 23:21:16.006554
+c9159a2e-da32-49d3-ae16-76bab4f8571e,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,450,5,6,4,0.0,4800000.0,2025-04-23 23:21:16.006554
+3169fce0-3907-413c-973a-e408069b089b,Chaves na Mão,Condomínio,Coité,Outros,Não,Não,229,3,3,3,1500.0,1349300.0,2025-04-23 23:21:16.006554
+e93aa8f4-0c56-4ccd-a4ad-281014c0f9f6,Chaves na Mão,Condomínio,Messejana,SER6,Não,Não,200,3,2,1,100.0,350000.0,2025-04-23 23:21:16.006554
+3a28fa9a-152f-4dd2-a794-a5e0400c46a2,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,118,4,3,3,630.0,570000.0,2025-04-23 23:21:16.006554
+a7db9211-a596-423f-a94f-d9a482428100,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,83,3,2,2,360.0,320000.0,2025-04-23 23:21:16.006554
+cefa24a5-d458-4ff0-b83b-e5f8facb2884,Chaves na Mão,Condomínio,Messejana,SER6,Não,Não,200,4,6,4,7.0,550000.0,2025-04-23 23:21:16.006554
+4c74e000-7d2b-4901-b06e-4b53cf10ffe7,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,86,2,2,2,620.0,315000.0,2025-04-23 23:21:16.006554
+e1a992fa-3c70-4797-9f1b-af2e38d582f3,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,220,4,5,3,200.0,435000.0,2025-04-23 23:21:16.006554
+25a46683-8366-4fc9-86a4-1ace20f9ee66,Chaves na Mão,Condomínio,Cidade dos Funcionários,SER6,Não,Não,166,3,4,3,700.0,747000.0,2025-04-23 23:21:16.006554
+10f55635-ccf6-4e7f-b215-3bb1416375b6,Chaves na Mão,Condomínio,Praia do Futuro,SER7,Não,Sim,117,3,3,2,685.0,931500.0,2025-04-23 23:21:16.006554
+39d8ec63-6d98-4203-8412-30fe6698d1d7,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,170,3,4,3,900.0,480000.0,2025-04-23 23:21:16.006554
+0de1beed-7ae8-4e5d-9315-72dd33ecc63d,Chaves na Mão,Condomínio,Cidade dos Funcionários,SER6,Não,Não,365,8,8,3,0.0,1200000.0,2025-04-23 23:21:16.006554
+c8883629-01a6-4b19-b73b-57d1d8df573b,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,800,4,6,10,0.0,5500000.0,2025-04-23 23:21:16.006554
+19fa2fd4-56f8-488b-92b4-c4c77677b3e5,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,181,3,5,2,1550.0,1200000.0,2025-04-23 23:21:16.006554
+b4cf4fcb-52ec-4a9d-b660-8826e05bf430,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,124,5,4,3,850.0,520000.0,2025-04-23 23:21:16.006554
+532a4551-1246-4fe3-9f13-05cba8cbe2ae,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,400,4,6,6,0.0,980000.0,2025-04-23 23:21:16.006554
+6406a5cb-3073-4947-a16b-a23ba03e48af,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,330,4,6,5,2000.0,5999000.0,2025-04-23 23:21:16.006554
+a2a3d5e6-9104-454c-9ba3-4eccc5606058,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,247,5,3,4,1400.0,780000.0,2025-04-23 23:21:16.006554
+bb88eadc-1990-49c5-9d28-c2c3c15d1086,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,225,3,5,4,1670.0,1390000.0,2025-04-23 23:21:16.006554
+29a57bd8-ce28-498b-9372-99cc4bb8ccaf,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,175,4,3,3,650.0,580000.0,2025-04-23 23:21:16.006554
+80cda221-b380-4ba4-adb9-32c6e7b4e498,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,82,3,2,3,620.0,379000.0,2025-04-23 23:21:16.006554
+fea576a7-7636-4558-ad67-54d9aabd2086,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,134,5,5,2,600.0,520000.0,2025-04-23 23:21:16.006554
+7ce79dff-898c-4f3f-bb12-c1413ec1bbb6,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,96,3,3,2,650.0,365000.0,2025-04-23 23:21:16.006554
+0d400ba2-5ba5-4f79-a3cb-81cacddd412e,Chaves na Mão,Condomínio,Jangurussu,SER9,Não,Não,67,2,2,1,333.0,220000.0,2025-04-23 23:21:16.006554
+9df5177f-92fd-4fb2-8c24-c557225d28d4,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,68,2,2,1,150.0,260000.0,2025-04-23 23:21:16.006554
+6841fcd2-4519-44e4-ba3e-a64404de081a,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,134,3,4,2,800.0,550000.0,2025-04-23 23:21:16.006554
+9f535cff-7af8-4cd7-b0a5-9713280663f3,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,90,3,3,2,600.0,450000.0,2025-04-23 23:21:16.006554
+14f5c79e-9259-4f5b-bf3d-9a0d27e382e5,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,186,4,5,5,1500.0,925000.0,2025-04-23 23:21:16.006554
+e1ae635c-d283-493f-8562-55adfa029c57,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,266,4,5,4,1800.0,1990000.0,2025-04-23 23:21:16.006554
+b81df6fa-d7c6-4b25-9e0e-e2eea54822c8,Chaves na Mão,Condomínio,Cidade dos Funcionários,SER6,Não,Não,180,3,3,2,1250.0,598000.0,2025-04-23 23:21:16.006554
+f39ffd76-8b55-4a78-bda0-a81b51c3a2da,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,50,2,3,2,380.0,230000.0,2025-04-23 23:21:16.006554
+b5cf9833-a47f-40bd-aabe-3b10f3b974a4,Chaves na Mão,Condomínio,Vila União,SER4,Não,Não,106,3,2,2,530.0,525000.0,2025-04-23 23:21:16.006554
+c2f7a377-c4e5-4787-b35f-e8812e04c03e,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,115,3,3,1,575.0,320000.0,2025-04-23 23:21:16.006554
+9da3e868-4edd-4f1c-b27f-0f0728e1d9f3,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,500,4,6,4,1250.0,6000000.0,2025-04-23 23:21:16.006554
+e06ec9c3-a94c-4540-8f13-1b3c6f0f527c,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,102,3,3,2,620.0,398999.0,2025-04-23 23:21:16.006554
+5a47865b-b53e-4609-8f77-78798adde7db,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,317,4,6,4,727.0,1390000.0,2025-04-23 23:21:16.006554
+02e5ad2e-b6fd-4b5f-ba1d-8b7a72e08056,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,96,3,4,2,522.0,365000.0,2025-04-23 23:21:16.006554
+6c8484f4-2732-4312-a735-b20c324b4a35,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,93,2,1,2,200.0,200000.0,2025-04-23 23:21:16.006554
+b0c0827a-df11-4882-bc05-fdd7531a5675,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,112,3,4,2,772.0,790000.0,2025-04-23 23:21:16.006554
+0de38304-647f-47be-81ca-1aa73031bde7,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,86,3,3,2,0.0,543000.0,2025-04-23 23:21:16.006554
+11786775-d63e-4533-b143-6eceeaa929f0,Chaves na Mão,Condomínio,Praia do Futuro,SER7,Não,Sim,186,3,4,3,1129.0,1628308.0,2025-04-23 23:21:16.006554
+26c40b61-1c37-4b84-8741-0a7d3ac7d45a,Chaves na Mão,Condomínio,Conjunto Esperança,SER10,Não,Não,140,3,2,2,0.0,550000.0,2025-04-23 23:21:16.006554
+260a2a9b-cfae-456d-993f-6dd8af184a36,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,213,3,4,3,0.0,990000.0,2025-04-23 23:21:16.006554
+53c921b4-0882-495d-9ab7-d3a20157eefb,Chaves na Mão,Condomínio,Praia do Futuro,Outros,Não,Não,218,4,5,4,1085.0,1663000.0,2025-04-23 23:21:16.006554
+4d43ac69-4482-448d-9020-e6319915a4b6,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,104,3,2,2,600.0,310000.0,2025-04-23 23:21:16.006554
+0e4cbac5-3ae5-4ed0-8f37-0d3c3471b199,Chaves na Mão,Condomínio,Cocó,SER7,Não,Não,450,4,5,2,0.0,1300000.0,2025-04-23 23:21:16.006554
+a510de3c-7106-4777-85a3-870b379613af,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,127,4,4,3,730.0,540000.0,2025-04-23 23:21:16.006554
+e4056a86-3179-4cd0-aefc-fe1c77ef7348,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,53,3,2,2,280.0,317013.0,2025-04-23 23:21:16.006554
+30b09f17-0dcf-4666-aaab-560b34065cd1,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,71,3,3,2,500.0,284000.0,2025-04-23 23:21:16.006554
+f7eb527e-6349-4c79-8505-ed7c6fb9a1cd,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,145,3,4,2,943.0,750000.0,2025-04-23 23:21:16.006554
+2ac61ed3-5a4f-433b-998b-abb08837ff60,Chaves na Mão,Condomínio,Praia do Futuro,SER7,Não,Sim,185,4,4,2,1130.0,1460000.0,2025-04-23 23:21:16.006554
+d3cdb45a-83bc-4edd-a401-517ec805c98e,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,86,3,3,2,0.0,543000.0,2025-04-23 23:21:16.006554
+57153cdf-cbe8-40dd-a162-fa4da11329cb,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,167,3,4,2,600.0,550000.0,2025-04-23 23:21:16.006554
+56c35f29-3a13-481b-8712-d250ee188204,Chaves na Mão,Condomínio,Cidade dos Funcionários,SER6,Não,Não,188,3,5,3,1180.0,1150000.0,2025-04-23 23:21:16.006554
+17005dd8-2ace-4535-b044-b087a86fbeb3,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,132,3,3,3,785.0,490000.0,2025-04-23 23:21:16.006554
+4ce96365-f874-4f22-9ed8-8aacff605691,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,170,4,5,3,950.0,800000.0,2025-04-23 23:21:16.006554
+47c9bad4-e226-418a-bbe9-47cb45a932c6,Chaves na Mão,Condomínio,Messejana,SER6,Não,Não,131,3,4,3,1050.0,630000.0,2025-04-23 23:21:16.006554
+2c3d367e-faad-41cd-a284-e5446d9519cd,Chaves na Mão,Condomínio,Cambeba,SER6,Não,Não,520,5,5,8,0.0,1100000.0,2025-04-23 23:21:16.006554
+c2da95b8-4930-4398-bcc4-04281ca3cb15,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,369,4,6,4,1250.0,3490000.0,2025-04-23 23:21:16.006554
+b8caeff3-5235-4c0a-968b-5a7b0e42c89a,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,496,4,7,6,1400.0,3490000.0,2025-04-23 23:21:16.006554
+f46d1861-225e-4e0e-bde5-b108425d2778,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,190,4,4,4,100.0,620000.0,2025-04-23 23:21:16.006554
+de221978-f0cd-499c-ad18-dce4150ae6e3,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,134,3,4,4,0.0,685000.0,2025-04-23 23:21:16.006554
+e00caf74-3e5c-4f71-9de8-5025f12aa5db,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,186,3,4,3,1323.0,900000.0,2025-04-23 23:21:16.006554
+ca8e40f7-e144-42d2-8604-7f1b0c4c519a,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,173,3,3,3,354.0,1300000.0,2025-04-23 23:21:16.006554
+c68317c5-49db-487d-8897-d8df77646035,Chaves na Mão,Condomínio,São Gerardo,SER3,Não,Não,235,4,5,3,1176.0,999000.0,2025-04-23 23:21:16.006554
+b9153494-ce38-424f-829b-abb9ef718b30,Chaves na Mão,Condomínio,Coité,Outros,Não,Não,188,4,5,4,80.0,620000.0,2025-04-23 23:21:16.006554
+154d8e5c-9927-4b98-ba9c-60fead9519f2,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,507,4,4,5,0.0,1300000.0,2025-04-23 23:21:16.006554
+fe1004e1-598d-4ca0-88ce-e1433584d5d7,Chaves na Mão,Condomínio,Parque Iracema,SER6,Não,Não,167,3,4,2,1300.0,599000.0,2025-04-23 23:21:16.006554
+8da4e845-1ae5-4f1c-868f-d121bd16fec3,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,162,4,4,1,1300.0,680000.0,2025-04-23 23:21:16.006554
+37ce42f6-89f3-4477-b052-78f4daf1e3f8,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,135,3,4,2,1186.0,750000.0,2025-04-23 23:21:16.006554
+7631bdfe-9a49-4814-af33-8835fab13613,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,170,2,2,1,355.0,560000.0,2025-04-23 23:21:16.006554
+bce7eb73-e6f2-4af8-b350-9a7b81fce5a2,Chaves na Mão,Condomínio,Jardim Cearense,SER10,Não,Não,94,3,3,2,460.0,419999.0,2025-04-23 23:21:16.006554
+426cea88-a640-4622-973d-ac7b408bc0e8,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,125,3,4,2,0.0,720000.0,2025-04-23 23:21:16.006554
+11d6d82c-4eaf-4704-8628-e3ac3579a52d,Chaves na Mão,Condomínio,Vicente Pinzon,SER2,Não,Não,604,4,5,5,2000.0,6000000.0,2025-04-23 23:21:16.006554
+1a6a5ace-ea15-4f91-8ebb-87c7b1b41c37,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,84,3,3,2,0.0,349000.0,2025-04-23 23:21:16.006554
+aeb230b2-d434-432f-a15e-d8c10ce53438,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,53,3,2,2,0.0,317013.0,2025-04-23 23:21:16.006554
+565bf9c5-832a-4b27-8f46-110b6d497569,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,500,4,5,4,1300.0,5000000.0,2025-04-23 23:21:16.006554
+adb0f008-aab6-4a73-9ed6-b04ad3f2d8d1,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,176,5,5,2,1050.0,700000.0,2025-04-23 23:21:16.006554
+49ab2618-48d9-4be0-b058-1c3fe72136de,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,186,3,4,3,1270.0,895000.0,2025-04-23 23:21:16.006554
+49e92624-3769-49c8-afcb-0a6297384bfc,Chaves na Mão,Condomínio,Parque Manibura,SER6,Não,Não,320,4,4,6,0.0,1200000.0,2025-04-23 23:21:16.006554
+18372000-ae78-4d53-9955-c69f461aa424,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,125,3,4,2,0.0,580000.0,2025-04-23 23:21:16.006554
+d5aa3523-b2af-4386-ad16-5ee84fe89946,Chaves na Mão,Condomínio,São Bento,SER6,Não,Não,244,4,5,4,0.0,790000.0,2025-04-23 23:21:16.006554
+41e9bd94-b341-448d-aefd-49c33c18647e,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,278,4,5,5,0.0,3800000.0,2025-04-23 23:21:16.006554
+a93600cd-121d-481f-a888-abc0f647edbd,Chaves na Mão,Condomínio,Parque Iracema,SER6,Não,Não,186,4,4,2,300.0,650000.0,2025-04-23 23:21:16.006554
+2d449a99-dd45-40f9-974c-05d43a20004c,Chaves na Mão,Condomínio,Eusébio,Outros,Não,Não,150,3,3,4,0.0,399900.0,2025-04-23 23:21:16.006554
+5541435f-76e6-4128-9bdc-c0856f9f7e6b,Chaves na Mão,Condomínio,Mondubim,SER10,Não,Não,145,4,4,1,0.0,580000.0,2025-04-23 23:21:16.006554
+4fd0659b-9b4e-4005-ab08-28f77fc05b4c,Chaves na Mão,Condomínio,Cajazeiras,SER9,Não,Não,406,6,3,3,50.0,600000.0,2025-04-23 23:21:16.006554
+b0296391-d95c-487e-a245-401157325316,Chaves na Mão,Condomínio,São Bento,SER6,Não,Não,200,3,3,2,0.0,365000.0,2025-04-23 23:21:16.006554
+48051ffe-86ce-410d-929c-559749949e16,Chaves na Mão,Condomínio,Sabiaguaba,SER7,Não,Sim,165,4,5,3,1050.0,795000.0,2025-04-23 23:21:16.006554
+1ea2b600-2d7a-4b43-bbb8-82f76c2d896e,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,96,3,3,2,570.0,365000.0,2025-04-23 23:21:16.006554
+004ae854-fb19-4e93-82e1-e29fc2718963,Chaves na Mão,Condomínio,Barroso,SER9,Não,Não,76,2,3,1,380.0,290000.0,2025-04-23 23:21:16.006554
+6d6961e0-4291-4365-ae35-9675a2fdb3bb,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,176,5,5,3,950.0,560000.0,2025-04-23 23:21:16.006554
+967e5c16-9e26-4554-a0fb-836067fb28a3,Chaves na Mão,Condomínio,Siqueira,SER5,Não,Não,54,2,2,1,200.0,230000.0,2025-04-23 23:21:16.006554
+b8657620-2d67-4908-a1c2-4bf41a4fd1de,Chaves na Mão,Condomínio,Papicu,SER2,Não,Não,230,3,2,2,0.0,450000.0,2025-04-23 23:21:16.006554
+caab2c1f-5493-4b5c-93c4-673c243e5cbf,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,126,5,5,2,1050.0,670000.0,2025-04-23 23:21:16.006554
+a93fa99d-990b-48d6-b718-7463e88b4caa,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,70,3,2,2,70.0,480000.0,2025-04-23 23:21:16.006554
+1c918259-da40-481c-b32e-25366371d153,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,110,3,2,3,400.0,450000.0,2025-04-23 23:21:16.006554
+86dfc32d-d905-42d7-bac4-546b9abf3fa0,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,176,4,5,3,1550.0,1250000.0,2025-04-23 23:21:16.006554
+e5d391bc-a3a9-4d91-82ec-63bf3184e416,Chaves na Mão,Condomínio,Prefeito José Walter,SER8,Não,Não,79,3,3,2,0.0,329000.0,2025-04-23 23:21:16.006554
+c19e48d8-50cc-4a93-973b-9f80a9b0ab8d,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,510,5,7,4,1400.0,4990000.0,2025-04-23 23:21:16.006554
+f9c06ee2-d6e7-4f54-98b7-778af9d7c820,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,123,3,4,3,0.0,599900.0,2025-04-23 23:21:16.006554
+df7926d3-7f76-4318-a25f-d9fe5b19dcaf,Chaves na Mão,Condomínio,Presidente Kennedy,SER3,Não,Não,240,4,5,5,1100.0,1600000.0,2025-04-23 23:21:16.006554
+04a223f7-0e89-4e3b-8202-39bcf66d5f90,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,86,3,2,2,200.0,350000.0,2025-04-23 23:21:16.006554
+019036d6-b9da-46d9-88ad-1fc389469014,Chaves na Mão,Condomínio,Presidente Kennedy,SER3,Não,Não,235,3,5,4,1200.0,1300000.0,2025-04-23 23:21:16.006554
+7dd77095-214b-4ec6-a55a-a1f0b049fc40,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,186,4,5,4,1500.0,1200000.0,2025-04-23 23:21:16.006554
+95f1d011-5066-4127-bb4c-dd6c48c758df,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,233,4,5,2,0.0,1900000.0,2025-04-23 23:21:16.006554
+0e78dfc5-cf35-4125-a822-3832aafe3b30,Chaves na Mão,Condomínio,Praia do Futuro,Outros,Não,Não,141,3,4,2,685.0,1017131.0,2025-04-23 23:21:16.006554
+0fc06887-8508-4b87-9a18-888e62c5e72c,Chaves na Mão,Condomínio,Cambeba,SER6,Não,Não,228,3,5,4,214.0,800000.0,2025-04-23 23:21:16.006554
+eb95fd3d-ea6b-4abd-be44-8c57b7134b94,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,63,2,1,2,193.0,275000.0,2025-04-23 23:21:16.006554
+15ccd55c-9f59-4699-b339-d40331c7c0f2,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,140,3,3,3,700.0,395000.0,2025-04-23 23:21:16.006554
+d838efd6-7d72-4552-8e9e-1d94c4534742,Chaves na Mão,Condomínio,Dunas,Outros,Não,Não,117,3,4,2,802.0,999740.0,2025-04-23 23:21:16.006554
+0865d651-e10e-49bd-8d56-4b0496ceb575,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,144,3,4,2,1008.0,749900.0,2025-04-23 23:21:16.006554
+8fca6800-a5b1-4640-9849-60c62cbc53d1,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,81,3,2,2,650.0,500000.0,2025-04-23 23:21:16.006554
+ceae84e4-7c46-4ed0-bc3f-fcdf42dc6e94,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,500,5,6,4,1350.0,5900000.0,2025-04-23 23:21:16.006554
+9d022533-43c4-47b9-852c-f57ae9bbdc21,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,500,4,7,4,950.0,3490000.0,2025-04-23 23:21:16.006554
+6d7c51dc-f7b9-4c07-a03a-a0840776df68,Chaves na Mão,Condomínio,Cidade dos Funcionários,SER6,Não,Não,178,3,5,5,1012.0,1100000.0,2025-04-23 23:21:16.006554
+c05a20fb-0474-40b4-a3cc-7661592a61d7,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,84,3,2,2,340.0,369000.0,2025-04-23 23:21:16.006554
+13b24cd6-ca35-4531-a175-1cf03659c170,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,254,4,5,3,1550.0,1100000.0,2025-04-23 23:21:16.006554
+774e2639-9e62-4601-b5bf-fd2d42a02519,Chaves na Mão,Condomínio,Sabiaguaba,SER7,Não,Sim,229,3,5,4,0.0,1349300.0,2025-04-23 23:21:16.006554
+aa15772a-736a-4e6f-a335-f8c8a928bbfb,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,90,3,2,2,400.0,399000.0,2025-04-23 23:21:16.006554
+115249d0-aed0-4757-afe9-df76869183fb,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,80,3,3,2,195.0,80000.0,2025-04-23 23:21:16.006554
+12726c28-a3f6-4400-89a6-614669574cce,Chaves na Mão,Condomínio,Parque Manibura,SER6,Não,Não,120,3,4,3,1100.0,550000.0,2025-04-23 23:21:16.006554
+c2958788-99e6-450e-abc8-c19b6dd89e27,Chaves na Mão,Condomínio,São Bento,SER6,Não,Não,134,3,4,3,0.0,695000.0,2025-04-23 23:21:16.006554
+2902733c-fcae-4c59-95d6-92a12fbc82e5,Chaves na Mão,Condomínio,Mondubim,SER10,Não,Não,90,4,2,2,210.0,250000.0,2025-04-23 23:21:16.006554
+c23fb9bb-5ec6-45ea-860f-65a662d3eec5,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,202,4,4,4,807.0,800000.0,2025-04-23 23:21:16.006554
+1de71a83-b19d-48a3-87f5-a011c6eacc28,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,250,4,5,3,580.0,1850000.0,2025-04-23 23:21:16.006554
+9454c9e0-f906-47b9-ab09-baef0217d92c,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,130,3,4,3,650.0,775000.0,2025-04-23 23:21:16.006554
+8f98b771-214e-4392-ab49-2dc465046e58,Chaves na Mão,Condomínio,Praia do Futuro,Outros,Não,Não,185,3,4,3,1129.0,1663727.0,2025-04-23 23:21:16.006554
+c06224bd-b6bd-4d6c-af82-926c554e53b7,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,150,4,4,2,50.0,590000.0,2025-04-23 23:21:16.006554
+fb8d8393-fc2e-457b-863e-62c582182a3f,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,78,2,1,1,214.0,200000.0,2025-04-23 23:21:16.006554
+530004d7-e756-4242-bb1f-912da90e5a00,Chaves na Mão,Condomínio,Dunas,Outros,Não,Não,117,3,3,2,685.0,999740.0,2025-04-23 23:21:16.006554
+10533a69-97a5-4dee-bde2-2a72614d2213,Chaves na Mão,Condomínio,Jangurussu,SER9,Não,Não,67,2,2,1,0.0,220000.0,2025-04-23 23:21:16.006554
+d51ca3cc-71d4-41f0-896c-793d7e1b623e,Chaves na Mão,Condomínio,Praia do Futuro,Outros,Não,Não,140,3,4,2,0.0,1017000.0,2025-04-23 23:21:16.006554
+b67fff0b-f512-4884-abd3-db3f5cbfe11d,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,200,4,4,4,1900.0,1100000.0,2025-04-23 23:21:16.006554
+5b508863-9e57-427a-a906-bae10092bf28,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,86,3,3,2,0.0,560000.0,2025-04-23 23:21:16.006554
+ef3072b0-e04f-48fc-8c16-48ad2aec20ec,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,187,3,4,3,1290.0,978000.0,2025-04-23 23:21:16.006554
+4b56bf44-8a13-493f-8181-a7fc41be3423,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,380,5,5,4,2350.0,2700000.0,2025-04-23 23:21:16.006554
+06a4ae3a-da5d-4e91-a768-5ebb38ce84d3,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,59,2,3,2,366.0,280000.0,2025-04-23 23:21:16.006554
+99457881-08bf-49de-8432-45560eab825b,Chaves na Mão,Condomínio,Mondubim,SER10,Não,Não,150,4,4,1,0.0,590000.0,2025-04-23 23:21:16.006554
+ddd32bc0-22e4-4370-af3a-49dbde83bc38,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,250,4,4,2,1150.0,1600000.0,2025-04-23 23:21:16.006554
+2ea452b6-03ed-484a-ad85-18658d9a7827,Chaves na Mão,Condomínio,Presidente Kennedy,SER3,Não,Não,300,4,4,2,1100.0,1400000.0,2025-04-23 23:21:16.006554
+6e86f76f-f7be-4864-996b-79cf7ffcdefb,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,209,4,4,3,600.0,1450000.0,2025-04-23 23:21:16.006554
+18205ab0-9ad2-4fe0-a76e-5c2186687af9,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,277,3,4,3,1900.0,1200000.0,2025-04-23 23:21:16.006554
+1395cbf0-b4dc-4bad-ba94-9c4497ea6ceb,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,240,4,6,2,700.0,1950000.0,2025-04-23 23:21:16.006554
+9a1b7d03-4f83-4396-937e-de647456e2e8,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,186,3,4,4,50.0,1158286.0,2025-04-23 23:21:16.006554
+314bf1d8-e575-4c92-b5a9-fdceb8df855f,Chaves na Mão,Condomínio,Sabiaguaba,SER7,Não,Sim,190,4,4,3,1050.0,998000.0,2025-04-23 23:21:16.006554
+dbf3ef9a-86f0-49a9-8a2a-87d2906b3688,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,150,3,4,2,0.0,820000.0,2025-04-23 23:21:16.006554
+4a63e43e-432c-4748-91aa-edd5e95988c9,Chaves na Mão,Condomínio,Prefeito José Walter,SER8,Não,Não,60,2,2,2,280.0,255000.0,2025-04-23 23:21:16.006554
+d83be2e2-4e49-46d1-9a78-592853166053,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,502,5,7,4,1350.0,3790000.0,2025-04-23 23:21:16.006554
+243ca0d0-2b69-4cd1-a4d3-9b1918b59ad6,Chaves na Mão,Condomínio,Cambeba,SER6,Não,Não,360,3,4,5,2212.0,1790000.0,2025-04-23 23:21:16.006554
+e82fa830-a236-4228-8213-8033f98fcbb5,Chaves na Mão,Condomínio,Jangurussu,SER9,Não,Não,69,2,2,1,320.0,230000.0,2025-04-23 23:21:16.006554
+7cf38655-cf77-4a00-9b2b-7711f9cd20a3,Chaves na Mão,Condomínio,Eusébio,Outros,Não,Não,128,3,3,2,0.0,499000.0,2025-04-23 23:21:16.006554
+a4461859-d4d0-417a-a46b-8757c77489e6,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,136,4,5,3,1050.0,670000.0,2025-04-23 23:21:16.006554
+6e7c6787-4c53-42e0-afb4-c20b8c1d132e,Chaves na Mão,Condomínio,Cidade dos Funcionários,SER6,Não,Não,178,3,5,5,1012.0,1100000.0,2025-04-23 23:21:16.006554
+17418638-fe71-4b48-964d-3d4c0a4ed778,Chaves na Mão,Condomínio,Vila União,SER4,Não,Não,148,3,4,3,630.0,570000.0,2025-04-23 23:21:16.006554
+396b8f60-882b-4172-9297-4f01d7047f72,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,500,4,6,5,0.0,1800000.0,2025-04-23 23:21:16.006554
+7e1313e3-e079-4fe2-a759-f447cc4da0b1,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,170,4,5,3,950.0,570000.0,2025-04-23 23:21:16.006554
+500ffb20-54cb-4e58-8d16-9d8620ae70bb,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,186,3,4,3,0.0,895000.0,2025-04-23 23:21:16.006554
+1f3c8c78-5af6-453f-81cf-fe1836ce4ff8,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,126,5,6,2,1050.0,670000.0,2025-04-23 23:21:16.006554
+d28ea4ff-90a9-4156-ad94-f77b9f673910,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,803,4,6,10,2400.0,13900000.0,2025-04-23 23:21:16.006554
+3034d9a7-604e-4883-aacd-cf7e57307fe0,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,811,6,8,11,2200.0,12400000.0,2025-04-23 23:21:16.006554
+b43b6f45-4326-4438-a51c-be1dc0336ce0,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,205,4,5,3,0.0,1110000.0,2025-04-23 23:21:16.006554
+269c2041-edb4-4c71-826e-7620b45a50f3,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,390,4,5,4,1350.0,3500000.0,2025-04-23 23:21:16.006554
+086c1d19-d174-4867-9375-8d5fd7633425,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,188,4,4,4,100.0,599000.0,2025-04-23 23:21:16.006554
+b98ad604-4f74-4429-a242-7aadb9edd615,Chaves na Mão,Condomínio,Parque Santa Maria,SER9,Não,Não,70,3,3,2,350.0,229999.0,2025-04-23 23:21:16.006554
+3b111e93-c5df-46d2-8415-2552e9d6de2b,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,220,4,5,4,670.0,1900000.0,2025-04-23 23:21:16.006554
+83073f13-8684-4f8d-99ee-ec50ee5b3907,Chaves na Mão,Condomínio,Itaperi,SER8,Não,Não,73,3,2,2,470.0,369000.0,2025-04-23 23:21:16.006554
+31288acd-d501-4ce0-ad98-48f844c8cdce,Chaves na Mão,Condomínio,Jangurussu,SER9,Não,Não,68,2,2,1,450.0,190000.0,2025-04-23 23:21:16.006554
+4678d8e4-0e83-4cad-bbeb-1e662f84bcfb,Chaves na Mão,Condomínio,Messejana,SER6,Não,Não,85,3,3,2,350.0,303000.0,2025-04-23 23:21:16.006554
+b4c9e06a-b48d-425f-b72c-d803e44eea38,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,90,3,3,2,500.0,450000.0,2025-04-23 23:21:16.006554
+76e1886e-44ad-4f05-ba5c-dda89aa8d67d,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,181,3,4,3,1550.0,1050000.0,2025-04-23 23:21:16.006554
+e9c2edbe-6768-4700-98e3-f9d8ce319e33,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,500,5,7,4,1250.0,5000000.0,2025-04-23 23:21:16.006554
+7a142554-d0a0-43ba-84c4-f6b8a0d3d42e,Chaves na Mão,Condomínio,Vila União,SER4,Não,Não,125,3,3,3,630.0,610000.0,2025-04-23 23:21:16.006554
+31d74e76-439a-44df-957e-0582e63a95ac,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,200,4,4,4,0.0,995000.0,2025-04-23 23:21:16.006554
+16d18829-c3e1-4046-bd3a-81add97f49f7,Chaves na Mão,Condomínio,Itaperi,SER8,Não,Não,71,2,3,2,400.0,379999.0,2025-04-23 23:21:16.006554
+a8a47c92-0107-4fcc-b36d-ce14d2330b67,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,125,3,3,2,1010.0,699000.0,2025-04-23 23:21:16.006554
+93d89cbc-7b8f-4660-9c6e-ea19c84a67f7,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,83,2,2,2,599.0,319999.0,2025-04-23 23:21:16.006554
+309b201f-0b05-4b8b-b117-05586c54e157,Chaves na Mão,Condomínio,Presidente Kennedy,SER3,Não,Não,450,4,5,4,55.0,820000.0,2025-04-23 23:21:16.006554
+0fb408bd-82e3-4299-bf37-89b04e0cf751,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,84,3,3,2,360.0,369000.0,2025-04-23 23:21:16.006554
+d5cb9763-f74c-422e-aa87-9c34479a527e,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,60,2,2,2,0.0,300000.0,2025-04-23 23:21:16.006554
+56981f78-012a-4dcd-8782-1f4071a58115,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,160,3,3,2,0.0,699000.0,2025-04-23 23:21:16.006554
+1ff4961a-2224-47ba-9be6-be80feaf57e8,Chaves na Mão,Condomínio,Parque Iracema,SER6,Não,Não,215,3,4,3,1380.0,749000.0,2025-04-23 23:21:16.006554
+713faf08-af36-4049-a400-ad8966951663,Chaves na Mão,Condomínio,Cidade dos Funcionários,SER6,Não,Não,520,4,5,4,0.0,790000.0,2025-04-23 23:21:16.006554
+364ab4d9-9896-4b2c-9572-97397be00ebc,Chaves na Mão,Condomínio,Messejana,SER6,Não,Não,67,2,2,1,340.0,220000.0,2025-04-23 23:21:16.006554
+b862743d-f2e6-4269-b2c6-ba4673d235ba,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,59,2,2,1,277.0,259000.0,2025-04-23 23:21:16.006554
+e1b52d04-aae6-49bf-965b-e7fa8a627fe9,Chaves na Mão,Condomínio,Sabiaguaba,SER7,Não,Sim,190,4,5,4,1050.0,998000.0,2025-04-23 23:21:16.006554
+8ab4067e-3b4a-42b9-9caf-e5e30a66752f,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,69,3,2,1,280.0,265000.0,2025-04-23 23:21:16.006554
+e43a92d8-99aa-44a4-a1b3-cfceb4ef7992,Chaves na Mão,Condomínio,Centro,SER12,Não,Não,400,4,5,6,1400.0,3980000.0,2025-04-23 23:21:16.006554
+59c4a0ab-bf76-426c-9a0b-c14e3d5ff395,Chaves na Mão,Condomínio,Sabiaguaba,SER7,Não,Sim,139,4,5,3,1050.0,799000.0,2025-04-23 23:21:16.006554
+667c89ff-8f06-4ae1-a5ee-243cdaad90ba,Chaves na Mão,Condomínio,Salinas,Outros,Não,Não,242,4,2,3,0.0,450000.0,2025-04-23 23:21:16.006554
+7a183011-be72-464e-bb28-97aca5e50212,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,380,5,8,5,2349.0,2690000.0,2025-04-23 23:21:16.006554
+cb2ff934-f704-490c-b4a7-9cb7404d04a0,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,278,3,4,2,2000.0,1300000.0,2025-04-23 23:21:16.006554
+12ce42d7-1bd9-442e-8307-b2b092bcd2f9,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,86,3,3,2,480.0,535000.0,2025-04-23 23:21:16.006554
+be7d699e-e13e-47f7-8131-ed3a04b28c8c,Chaves na Mão,Condomínio,Cidade dos Funcionários,SER6,Não,Não,150,3,4,2,0.0,890000.0,2025-04-23 23:21:16.006554
+9be66d72-2755-4154-9054-159cc3372195,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,300,5,4,4,50.0,1250000.0,2025-04-23 23:21:16.006554
+f63e75a3-a0f6-425b-9e9e-6a0e99cfe9f7,Chaves na Mão,Condomínio,Serrinha,SER8,Não,Não,156,2,1,1,0.0,230000.0,2025-04-23 23:21:16.006554
+ed578c32-a967-4b98-babc-fcef2bdd0da8,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,201,4,5,6,400.0,998000.0,2025-04-23 23:21:16.006554
+3026e361-a5d0-4da8-b3cd-37af8845ac7c,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,150,4,4,2,650.0,650000.0,2025-04-23 23:21:16.006554
+1d118a59-0254-40b3-9046-5579cda31e75,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,650,4,6,6,3522.0,1385000.0,2025-04-23 23:21:16.006554
+3ac8957d-557e-48de-b1a8-bf583880a5c4,Chaves na Mão,Condomínio,Jardim das Oliveiras,SER6,Não,Não,156,4,4,2,0.0,699000.0,2025-04-23 23:21:16.006554
+05e5b788-3a28-4c59-beae-3349b13be7da,Chaves na Mão,Condomínio,Eusébio,Outros,Não,Não,460,5,8,6,700.0,2800000.0,2025-04-23 23:21:16.006554
+218877de-028f-4da7-b297-f38d8d6e1564,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,320,4,6,4,600.0,1990000.0,2025-04-23 23:21:16.006554
+fa3a034b-7a4e-4213-9d6f-f2d67c36110b,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,309,4,6,5,150.0,800000.0,2025-04-23 23:21:16.006554
+333e5c62-8551-45dd-9bc2-98cf69672726,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,65,3,2,2,350.0,299999.0,2025-04-23 23:21:16.006554
+e7fc9f07-d28f-402c-9e42-4e6d751c0d29,Chaves na Mão,Condomínio,Alagadiço Novo,Outros,Não,Não,320,3,4,7,0.0,1500000.0,2025-04-23 23:21:16.006554
+d205d896-1243-49dc-9f18-60b1b4657f71,Chaves na Mão,Condomínio,Cambeba,SER6,Não,Não,263,4,5,4,2000.0,835000.0,2025-04-23 23:21:16.006554
+87dffbfd-ffbf-4a4f-ab67-8468675ecfd2,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,82,2,2,2,620.0,315000.0,2025-04-23 23:21:16.006554
+de1a59f4-5b66-4cbb-a5a5-602d5ddbc943,Chaves na Mão,Condomínio,Aldeota,SER2,Sim,Não,140,3,6,2,300.0,550000.0,2025-04-23 23:21:16.006554
+9993c017-8119-4f50-a8a2-a0f097da0236,Chaves na Mão,Condomínio,Vila União,SER4,Não,Não,106,4,4,2,510.0,549999.0,2025-04-23 23:21:16.006554
+d55b6bd3-347d-4f5f-96de-da32cb903d23,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,233,4,5,4,650.0,1900000.0,2025-04-23 23:21:16.006554
+a24e0542-cff9-47f0-bb8f-5f238e1c38db,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,70,2,3,2,450.0,400000.0,2025-04-23 23:21:16.006554
+cda2096b-12d4-4633-b09e-919f04a8a6f3,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,186,3,4,2,1323.0,1070000.0,2025-04-23 23:21:16.006554
+c3867a52-a7f9-4b25-b455-eadb1440ed4e,Chaves na Mão,Condomínio,Montese,SER4,Não,Não,260,3,3,3,770.0,460000.0,2025-04-23 23:21:16.006554
+61dd97c0-ec39-4d32-88f5-228cc0116772,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,145,3,4,3,1008.0,720000.0,2025-04-23 23:21:16.006554
+7d4a8ddc-3599-46d8-98f8-ff41ed3c5b34,Chaves na Mão,Condomínio,Mondubim,SER10,Não,Não,80,3,2,2,300.0,250000.0,2025-04-23 23:21:16.006554
+07af131d-a485-47b0-a14b-1b2169e88cdd,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,305,4,4,2,900.0,2900000.0,2025-04-23 23:21:16.006554
+7256a4bb-4e80-4280-93bd-fae9981e20f6,Chaves na Mão,Condomínio,Cidade dos Funcionários,SER6,Não,Não,213,4,4,2,1200.0,800000.0,2025-04-23 23:21:16.006554
+5cf36ba6-7b6d-42e3-a720-2c2dde919e1a,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,148,3,4,3,0.0,890000.0,2025-04-23 23:21:16.006554
+5121d3e6-8ef4-4140-8158-5f52bf04fae2,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,182,4,6,4,1550.0,650000.0,2025-04-23 23:21:16.006554
+6ddf9680-ddb6-4ce5-a6f1-3bae8e8c6d0f,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,400,4,5,4,1250.0,3990000.0,2025-04-23 23:21:16.006554
+d1dda305-bc9d-4a64-8a7f-61d808828a91,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,165,4,4,2,1100.0,799000.0,2025-04-23 23:21:16.006554
+23ee8b0e-5ddf-4557-81fd-44f630e35a8e,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,86,3,3,2,0.0,545000.0,2025-04-23 23:21:16.006554
+2097edcc-ebeb-40d8-8d6a-6b9848797a2a,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,94,3,2,2,500.0,350000.0,2025-04-23 23:21:16.006554
+b18160ab-0a5c-46e9-9395-40c6ca22e9fb,Chaves na Mão,Condomínio,Praia do Futuro,Outros,Não,Não,117,3,4,2,685.0,1017417.0,2025-04-23 23:21:16.006554
+46e19f98-1f64-4ba2-8796-364fe6a2567f,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,170,4,5,4,950.0,750000.0,2025-04-23 23:21:16.006554
+9d2105f7-5ad5-4c5b-a4a8-d4cc3bdc5ff4,Chaves na Mão,Condomínio,Antônio Bezerra,SER3,Não,Não,104,2,1,2,200.0,288000.0,2025-04-23 23:21:16.006554
+356d07c0-e681-45bd-8198-5df9847b31df,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,101,3,3,2,0.0,543000.0,2025-04-23 23:21:16.006554
+ea21cc2b-f83d-4175-aeb8-4883d94e8f32,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,330,4,6,4,1350.0,3000000.0,2025-04-23 23:21:16.006554
+87ce16b3-4738-4d3a-8190-ed04404d9e98,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,480,5,7,4,0.0,3950000.0,2025-04-23 23:21:16.006554
+c6e5c1c2-4726-4ab0-968a-0f058f14ffa6,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,380,4,8,5,0.0,2490000.0,2025-04-23 23:21:16.006554
+c9b1db01-1e36-40c8-b47b-9c56ecb59727,Chaves na Mão,Condomínio,Curió,SER6,Não,Não,130,3,3,3,700.0,420000.0,2025-04-23 23:21:16.006554
+08a9d646-c145-47f9-8ab0-2ee27c93f0bd,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,140,2,1,2,200.0,250000.0,2025-04-23 23:21:16.006554
+1c7de78f-99e0-4518-a6f6-0d04e2d70e6b,Chaves na Mão,Condomínio,Cidade dos Funcionários,SER6,Não,Não,300,4,4,8,0.0,1200000.0,2025-04-23 23:21:16.006554
+c7d251c7-65ca-452a-b8e7-a7e216f41639,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,115,3,3,2,0.0,440000.0,2025-04-23 23:21:16.006554
+a42679c0-eaf5-424c-a4b0-44f33abedc43,Chaves na Mão,Condomínio,Cambeba,SER6,Não,Não,263,4,4,4,1300.0,850000.0,2025-04-23 23:21:16.006554
+95e2e8c6-8a59-4439-b99d-d1345017081c,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,250,4,5,4,0.0,1950000.0,2025-04-23 23:21:16.006554
+e11edcd5-85d1-440a-a57a-03abb1589bac,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,210,4,4,3,1050.0,1100000.0,2025-04-23 23:21:16.006554
+4405927b-f70c-48b7-ad57-42caa7b66f6c,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,420,4,5,4,2300.0,2990000.0,2025-04-23 23:21:16.006554
+8a07bdc8-011c-4330-955e-259defe6b137,Chaves na Mão,Condomínio,Serrinha,SER8,Não,Não,76,2,2,1,380.0,350000.0,2025-04-23 23:21:16.006554
+473f9ca3-a738-4d18-a94b-501f3ad3bc1e,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,84,3,3,2,350.0,359000.0,2025-04-23 23:21:16.006554
+02d3ad91-0556-4c08-a254-01af89cf4990,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,250,4,3,4,600.0,1799900.0,2025-04-23 23:21:16.006554
+07dd38ca-d031-4634-ae2a-f443de1f739e,Chaves na Mão,Condomínio,Cidade dos Funcionários,SER6,Não,Não,480,5,4,4,0.0,800000.0,2025-04-23 23:21:16.006554
+3789f24a-6ee0-4418-a829-938a304450ee,Chaves na Mão,Condomínio,Siqueira,SER5,Não,Não,65,2,2,1,200.0,210000.0,2025-04-23 23:21:16.006554
+e97afa38-bf16-46ba-afa1-da6702a09d15,Chaves na Mão,Condomínio,Parque Iracema,SER6,Não,Não,180,4,5,2,300.0,750000.0,2025-04-23 23:21:16.006554
+c652f7a3-3079-4bcb-b6bd-65e7888afd71,Chaves na Mão,Condomínio,Amadeu Furtado,SER3,Não,Não,230,2,3,2,0.0,460000.0,2025-04-23 23:21:16.006554
+544ec2bd-7725-4ced-8ed5-d3d74df4c35c,Chaves na Mão,Condomínio,Fátima,SER4,Não,Não,180,1,3,2,1200.0,630000.0,2025-04-23 23:21:16.006554
+86bbaeec-d604-44a4-aa00-142617ad8383,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,157,4,4,2,1964.0,680000.0,2025-04-23 23:21:16.006554
+f784a1ee-8f8e-4fe9-a3a4-57db9e623bac,Chaves na Mão,Condomínio,Fátima,SER4,Não,Não,362,7,3,4,0.0,1100000.0,2025-04-23 23:21:16.006554
+997e5486-4112-4cb6-b0e4-24081e8c0b72,Chaves na Mão,Condomínio,Cajazeiras,SER9,Não,Não,305,4,5,5,0.0,650000.0,2025-04-23 23:21:16.006554
+964fb415-eccb-46d1-93a8-b04e9d5c91ee,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,70,2,2,1,290.0,298000.0,2025-04-23 23:21:16.006554
+cacaa55e-11a0-4996-b164-5cdbc2d8501f,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,237,3,5,3,1727.0,1416765.0,2025-04-23 23:21:16.006554
+8a30c5fb-0a1d-4c91-bf7a-cd0b91ccbb15,Chaves na Mão,Condomínio,Cambeba,SER6,Não,Não,207,5,6,5,1450.0,700000.0,2025-04-23 23:21:16.006554
+526eeb91-ed29-4309-9f3c-46cd4cd2377d,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,80,2,2,4,185.0,290000.0,2025-04-23 23:21:16.006554
+1c4cbc1b-fa63-4665-ae18-063b32cafe8b,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,176,4,4,4,700.0,530000.0,2025-04-23 23:21:16.006554
+4eb5ffa8-15a8-4102-b87d-1b7308bb16da,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,378,4,7,5,2800.0,3500000.0,2025-04-23 23:21:16.006554
+20251bd5-9c43-4300-8586-a16e623a1ee0,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,200,4,4,3,0.0,990000.0,2025-04-23 23:21:16.006554
+2714edde-8f40-4e5d-b868-ba2288ca15d7,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,580,5,7,4,0.0,4500000.0,2025-04-23 23:21:16.006554
+d91aab71-7924-4132-859b-3ca673e783a7,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,400,5,6,4,0.0,3190000.0,2025-04-23 23:21:16.006554
+8b209ad1-82b0-4c07-9532-6dabcddfabcd,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,84,3,2,4,260.0,350000.0,2025-04-23 23:21:16.006554
+b82f114f-d9ff-4acd-bcd9-61576bb60f43,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,154,4,4,2,850.0,750000.0,2025-04-23 23:21:16.006554
+2e68e1b0-2c66-4603-9ad5-58aff55bc23b,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,251,4,4,4,0.0,1100000.0,2025-04-23 23:21:16.006554
+9e037b91-cbe2-4371-9835-0e978d95d849,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,252,3,4,3,0.0,935000.0,2025-04-23 23:21:16.006554
+61faac4e-b3db-4192-97f3-73b7f7981f8b,Chaves na Mão,Condomínio,Henrique Jorge,SER11,Não,Não,49,2,2,2,150.0,370000.0,2025-04-23 23:21:16.006554
+5cc804cf-ae34-4080-949b-813c6aea23fb,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,163,4,3,2,1300.0,680000.0,2025-04-23 23:21:16.006554
+cb580881-e4f2-48f8-9f5d-08c88a320cab,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,84,3,3,2,350.0,369000.0,2025-04-23 23:21:16.006554
+d3717268-e92b-4d5a-920e-57d78e6babc2,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,90,3,3,2,500.0,470000.0,2025-04-23 23:21:16.006554
+b87a7473-0ee5-4c4d-a1e3-f218f2ef178f,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,70,3,2,2,400.0,399000.0,2025-04-23 23:21:16.006554
+0cb5cc9a-4a91-429d-b904-edccba054107,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,178,3,5,2,960.0,650000.0,2025-04-23 23:21:16.006554
+0d5dc6ca-e0a9-41fe-aff0-f8e3ee5f5d3c,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,140,3,2,4,620.0,380000.0,2025-04-23 23:21:16.006554
+2ae251b9-6682-46fe-96ca-09d3487a23cb,Chaves na Mão,Condomínio,Messejana,SER6,Não,Não,70,2,2,2,0.0,229000.0,2025-04-23 23:21:16.006554
+2a12f46b-04df-4aad-9ddf-872be9c279d5,Chaves na Mão,Condomínio,Cidade dos Funcionários,SER6,Não,Não,168,3,4,2,1300.0,1200000.0,2025-04-23 23:21:16.006554
+ad33c70d-8377-433d-8c3e-3c5d68c5bdf1,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,188,4,4,4,600.0,1248900.0,2025-04-23 23:21:16.006554
+771612a9-f1d3-4e36-81b4-0adf916d03d6,Chaves na Mão,Condomínio,Cidade dos Funcionários,SER6,Não,Não,188,4,4,4,1320.0,1080000.0,2025-04-23 23:21:16.006554
+625751d1-fc20-4c27-847e-a3416fbc7de7,Chaves na Mão,Condomínio,Messejana,SER6,Não,Não,60,3,2,1,100.0,340000.0,2025-04-23 23:21:16.006554
+df38028a-7fb1-43bc-b3d6-091ac07c8ca0,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,148,3,4,3,0.0,936139.0,2025-04-23 23:21:16.006554
+d6831e44-af38-40dc-bda2-e8d8cbcd7603,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,60,2,2,1,260.0,240000.0,2025-04-23 23:21:16.006554
+6b196499-e85c-457e-8fec-203926bcbc4f,Chaves na Mão,Condomínio,Messejana,SER6,Não,Não,150,3,3,2,400.0,300000.0,2025-04-23 23:21:16.006554
+f5c9a29a-23ff-47cd-8299-158ba44705d1,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,85,2,2,2,620.0,315000.0,2025-04-23 23:21:16.006554
+8f2972ba-c786-48ed-9483-f5c1eada78d6,Chaves na Mão,Condomínio,Cajazeiras,SER9,Não,Não,200,4,4,2,820.0,1280000.0,2025-04-23 23:21:16.006554
+a89f232f-8cc9-4ba4-b602-3dee15c0155a,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,245,4,5,4,50.0,1790000.0,2025-04-23 23:21:16.006554
+831eead9-fbbb-4edb-9993-9f5fce36b8c4,Chaves na Mão,Condomínio,Cajazeiras,SER9,Não,Não,180,3,4,3,0.0,680000.0,2025-04-23 23:21:16.006554
+9fe37c25-1fc9-49b7-86a8-ab88dcd8480a,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,132,4,4,3,990.0,585000.0,2025-04-23 23:21:16.006554
+88634bd8-9790-4cd3-a914-6227c018d21e,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,230,4,5,4,800.0,2400000.0,2025-04-23 23:21:16.006554
+f0529be2-a16d-4535-b408-2314d33e8738,Chaves na Mão,Condomínio,Messejana,SER6,Não,Não,70,2,2,2,380.0,300000.0,2025-04-23 23:21:16.006554
+527ca138-b9f5-462b-9a15-7f6580a360ef,Chaves na Mão,Condomínio,Praia do Futuro,SER7,Não,Sim,185,3,5,2,1129.0,1620000.0,2025-04-23 23:21:16.006554
+e836461b-4853-46b2-9b02-9ed3a256f521,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,60,2,2,2,300.0,249999.0,2025-04-23 23:21:16.006554
+13a08746-26da-4b51-bcc6-77fa881d29b5,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,186,4,1,3,900.0,919000.0,2025-04-23 23:21:16.006554
+a154f3f1-0556-4568-8d44-42ec746c06b2,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,186,4,5,4,0.0,1250000.0,2025-04-23 23:21:16.006554
+afac0e82-8dbc-4a28-96bc-3c574c4a4532,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,102,2,2,2,654.0,380000.0,2025-04-23 23:21:16.006554
+39361650-2e9d-4922-9ad5-da6e664c140f,Chaves na Mão,Condomínio,Cajazeiras,SER9,Não,Não,230,3,6,4,820.0,1270000.0,2025-04-23 23:21:16.006554
+2adbb806-8e95-4190-875d-078859526667,Chaves na Mão,Condomínio,Cambeba,SER6,Não,Não,192,4,4,2,970.0,800000.0,2025-04-23 23:21:16.006554
+f97a05fc-5cbd-464a-8d6b-c85c45babe0a,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,330,4,6,4,1350.0,3200000.0,2025-04-23 23:21:16.006554
+c6a923ac-d870-43d4-be58-01a6c02daea9,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,57,3,2,2,50.0,344580.0,2025-04-23 23:21:16.006554
+4b9a83ee-3cde-4b20-bca8-8b6a7d859254,Chaves na Mão,Condomínio,Siqueira,SER5,Não,Não,64,2,2,2,180.0,230000.0,2025-04-23 23:21:16.006554
+91151a9e-de6a-4a8e-a86e-f259a7efc205,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,181,4,5,2,1550.0,1100000.0,2025-04-23 23:21:16.006554
+c1643fe6-4d97-4871-8d8a-c2ead3cb2f46,Chaves na Mão,Condomínio,Cajazeiras,SER9,Não,Não,250,4,5,4,0.0,1100000.0,2025-04-23 23:21:16.006554
+e69d1948-471d-4449-ad03-d870bee4fed2,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,400,5,5,4,0.0,2950000.0,2025-04-23 23:21:16.006554
+4df881be-9464-471b-9f26-5e6a9130c516,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,63,2,1,1,250.0,210000.0,2025-04-23 23:21:16.006554
+9a1fdd24-da30-4fad-af60-d62b41d26b69,Chaves na Mão,Condomínio,Sabiaguaba,SER7,Não,Sim,165,4,5,4,1050.0,890000.0,2025-04-23 23:21:16.006554
+7e82f545-f4a5-4a63-a806-6a4c66f6ae6b,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,201,4,3,4,300.0,990000.0,2025-04-23 23:21:16.006554
+db8f46c5-d6f3-45bc-a1e0-f9da5030e5bb,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,201,4,4,6,300.0,990000.0,2025-04-23 23:21:16.006554
+73541289-ab92-4d62-8d5c-79ffba3588a2,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,415,5,7,4,1250.0,3890000.0,2025-04-23 23:21:16.006554
+b6c00757-e9ca-481f-8bd8-66e0410ad853,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,86,3,3,2,0.0,545000.0,2025-04-23 23:21:16.006554
+282d576f-ce8b-421c-879a-920c5d06fbb5,Chaves na Mão,Condomínio,Coaçu,SER6,Não,Não,660,5,6,6,0.0,11900000.0,2025-04-23 23:21:16.006554
+50627445-8e31-4c1f-94c5-afb024580c80,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,88,3,3,2,500.0,370000.0,2025-04-23 23:21:16.006554
+a7c1cd86-e42e-4248-889f-8645e01f9e54,Chaves na Mão,Condomínio,Cajazeiras,SER9,Não,Não,212,4,5,4,700.0,1100000.0,2025-04-23 23:21:16.006554
+cf82f51d-7250-4787-9536-e657b8aaef38,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,154,4,4,2,950.0,750000.0,2025-04-23 23:21:16.006554
+235508a1-7476-45ad-96f6-e8d0e70ea4e7,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,195,3,3,3,200.0,895000.0,2025-04-23 23:21:16.006554
+461c5a76-52ae-4962-83e9-641f931e4319,Chaves na Mão,Condomínio,Dunas,Outros,Não,Não,474,4,5,4,1700.0,3500000.0,2025-04-23 23:21:16.006554
+aa92f9a9-eb88-4473-bbb8-2c68f7b49363,Chaves na Mão,Condomínio,Praia do Futuro,SER7,Não,Sim,141,3,5,2,685.0,982352.0,2025-04-23 23:21:16.006554
+9e60ba0b-0f30-46cf-9eb7-1fd507d9804c,Chaves na Mão,Condomínio,Dunas,Outros,Não,Não,141,3,4,2,685.0,1017131.0,2025-04-23 23:21:16.006554
+f4b00662-a41a-402b-899f-a2a222f96121,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,150,4,4,2,300.0,495000.0,2025-04-23 23:21:16.006554
+33c74efb-a11e-418e-8cbf-0b553c0f1d77,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,437,3,3,4,0.0,6500000.0,2025-04-23 23:21:16.006554
+e87114c2-2627-43b8-af1d-1ec94bbec0f7,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,960,5,6,10,0.0,1950000.0,2025-04-23 23:21:16.006554
+6ae9cbce-3772-4261-9173-99548095c39f,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,302,3,4,6,0.0,1550000.0,2025-04-23 23:21:16.006554
+50a9825a-3641-4d09-a984-e391314fdc19,Chaves na Mão,Condomínio,Centro,SER12,Não,Não,423,5,3,2,0.0,850000.0,2025-04-23 23:21:16.006554
+84952f75-714d-4e3e-a38c-59733bd41287,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,148,3,4,3,0.0,936139.0,2025-04-23 23:21:16.006554
+0a00ded3-b03b-4ee0-bf39-626d4e477001,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,245,4,5,4,50.0,1950000.0,2025-04-23 23:21:16.006554
+036bca8e-ac9b-4678-9f99-5fbf93bc660f,Chaves na Mão,Condomínio,Messejana,SER6,Não,Não,125,3,5,3,700.0,620000.0,2025-04-23 23:21:16.006554
+ddcc9584-f3b4-4597-8195-4c3c23f71f9c,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,100,3,2,2,390.0,349000.0,2025-04-23 23:21:16.006554
+64a7659f-08d7-4af3-a052-0e4fad39d110,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,117,3,4,2,525.0,450000.0,2025-04-23 23:21:16.006554
+7997675d-8610-4ab8-b2a5-e9953420b175,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,390,6,7,4,2900.0,3000000.0,2025-04-23 23:21:16.006554
+9523b0c0-188f-4264-987a-e6d032d32145,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,148,3,4,3,0.0,1102451.0,2025-04-23 23:21:16.006554
+2a6944c8-7888-44b6-a3f0-3666e129d420,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,125,3,5,1,850.0,560000.0,2025-04-23 23:21:16.006554
+8bc94bab-5590-448e-a1e5-17d773b7e5a6,Chaves na Mão,Condomínio,Jardim Cearense,SER10,Não,Não,250,4,5,3,0.0,1870000.0,2025-04-23 23:21:16.006554
+125e8213-da12-4daf-b521-0bfd5fefb30e,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,159,3,5,2,1100.0,750000.0,2025-04-23 23:21:16.006554
+3b679b48-f145-4bec-9f8d-4953bc93144f,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,285,3,5,4,1100.0,1100000.0,2025-04-23 23:21:16.006554
+b6a0642a-83cb-4112-92e3-75f98f5695c5,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,125,4,4,2,950.0,540000.0,2025-04-23 23:21:16.006554
+379bc1e3-72b8-4f8a-b264-727166c57b85,Chaves na Mão,Condomínio,Barroso,SER9,Não,Não,85,3,3,2,350.0,317000.0,2025-04-23 23:21:16.006554
+aa9ce4c1-623d-496d-be98-20887949fe9a,Chaves na Mão,Condomínio,São Bento,SER6,Não,Não,212,3,3,2,0.0,380000.0,2025-04-23 23:21:16.006554
+b6357c2c-bad8-4173-9caf-8f5ea6ff88af,Chaves na Mão,Condomínio,Centro,SER12,Não,Não,677,5,7,4,1500.0,8200000.0,2025-04-23 23:21:16.006554
+d5483f52-6fde-4d51-abad-a13dc6838a80,Chaves na Mão,Condomínio,Cidade dos Funcionários,SER6,Não,Não,203,3,3,5,1310.0,1300000.0,2025-04-23 23:21:16.006554
+5a28a8a8-5e65-4e58-9ce6-9e37b1a9d2f5,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,53,3,2,2,0.0,322000.0,2025-04-23 23:21:16.006554
+8080d6a0-e3ae-4d95-8b80-e98a30d6661c,Chaves na Mão,Condomínio,Dunas,Outros,Não,Não,185,3,3,2,1087.0,1618000.0,2025-04-23 23:21:16.006554
+8febb05c-9bc1-4ecb-a6d7-3a1a27e4a153,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,181,3,5,2,1550.0,1050000.0,2025-04-23 23:21:16.006554
+cbe4cfe4-e3b5-4c52-85a7-03d9b0cc1b31,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,213,3,4,2,0.0,990000.0,2025-04-23 23:21:16.006554
+984f6d8c-3e27-4d97-b491-a40916f02bc5,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,186,3,3,4,0.0,968000.0,2025-04-23 23:21:16.006554
+890bbe04-d69b-4f1d-9a38-a9fecf5c0005,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,200,4,5,3,850.0,650000.0,2025-04-23 23:21:16.006554
+70b343aa-12da-4e18-82fb-fbde5f7974e5,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,470,5,7,4,1250.0,5300000.0,2025-04-23 23:21:16.006554
+80694684-3cb0-4ed0-85fa-f74828bc9320,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,134,5,5,2,600.0,520000.0,2025-04-23 23:21:16.006554
+52f6e225-a8fc-4a54-b61b-eca73f4a41b9,Chaves na Mão,Condomínio,Montese,SER4,Não,Não,133,3,2,2,0.0,360000.0,2025-04-23 23:21:16.006554
+6b471e23-d8f8-4a21-9252-268c69caf7cc,Chaves na Mão,Condomínio,Manoel Dias Branco,SER7,Não,Não,138,3,4,3,700.0,479000.0,2025-04-23 23:21:16.006554
+6d761f65-49b3-4f99-a2e1-7da544cb9ca2,Chaves na Mão,Condomínio,Presidente Kennedy,SER3,Não,Não,400,5,4,4,1100.0,1550000.0,2025-04-23 23:21:16.006554
+dead7c5f-5d87-4e67-af70-4187f554235f,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,53,3,2,2,0.0,344580.0,2025-04-23 23:21:16.006554
+3bcdd3e8-d6d6-4aa4-b477-44208d264129,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,137,3,3,2,1300.0,595000.0,2025-04-23 23:21:16.006554
+f59b5a3a-e8f0-42f2-801e-565ca9103c37,Chaves na Mão,Condomínio,Dunas,Outros,Não,Não,305,4,5,6,2565.0,2150000.0,2025-04-23 23:21:16.006554
+3e3f019d-f47a-479d-97d9-92aec83b6913,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,100,3,4,3,365.0,285000.0,2025-04-23 23:21:16.006554
+2fc621b6-1353-4044-b1b1-c71c9bcbc244,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,181,3,4,3,1550.0,1049000.0,2025-04-23 23:21:16.006554
+6d03af89-5f96-4ea1-a622-70e2d58385b4,Chaves na Mão,Condomínio,Coaçu,SER6,Não,Não,110,2,3,2,80.0,220000.0,2025-04-23 23:21:16.006554
+42cdd057-b599-427b-a469-2d1db45cb0c0,Chaves na Mão,Condomínio,Vicente Pinzon,SER2,Não,Não,396,4,3,4,0.0,650000.0,2025-04-23 23:21:16.006554
+3cda9698-8378-4b27-976c-d9df8c253fda,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,102,3,5,2,1300.0,497000.0,2025-04-23 23:21:16.006554
+16c4b7bd-0fc4-447f-ae87-d4868ba4f59a,Chaves na Mão,Condomínio,Siqueira,SER5,Não,Não,72,3,2,2,0.0,265000.0,2025-04-23 23:21:16.006554
+973fce01-acb3-4dac-8c4d-f0f663ed94b7,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,420,4,6,4,1040.0,3500000.0,2025-04-23 23:21:16.006554
+ca73106d-66c3-47bd-888d-0c7b3f77c0ec,Chaves na Mão,Condomínio,Itaperi,SER8,Não,Não,113,4,3,4,750.0,600000.0,2025-04-23 23:21:16.006554
+7a84471e-8746-4ae6-9357-51b76d921aa7,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,148,3,4,3,0.0,890698.0,2025-04-23 23:21:16.006554
+55de71e5-8e23-421b-9792-b33131efc42e,Chaves na Mão,Condomínio,Coaçu,SER6,Não,Não,320,5,5,4,920.0,1999000.0,2025-04-23 23:21:16.006554
+a4cccc1b-2b34-4c7a-9ce5-f7d6dfc48d93,Chaves na Mão,Condomínio,Vicente Pinzon,SER2,Não,Não,600,4,6,5,5648.0,5900000.0,2025-04-23 23:21:16.006554
+fd67bd2f-38ed-4786-944d-92ac34d1fdbb,Chaves na Mão,Condomínio,Mondubim,SER10,Não,Não,68,3,2,2,0.0,269000.0,2025-04-23 23:21:16.006554
+d407b7a1-35eb-4699-b5c7-a937f8cdf829,Chaves na Mão,Condomínio,Praia do Futuro,Outros,Não,Não,185,3,4,2,1087.0,1567038.0,2025-04-23 23:21:16.006554
+64e3185e-bf55-4978-b9b6-b908f4d25744,Chaves na Mão,Condomínio,Pedras,SER9,Não,Não,100,3,3,2,310.0,250000.0,2025-04-23 23:21:16.006554
+4df3d53b-3e5f-4dd9-8719-aaf64d7ee217,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,188,3,3,2,0.0,380000.0,2025-04-23 23:21:16.006554
+31952fd0-1820-4a6f-a46f-42679668c98c,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,277,3,4,3,2000.0,1300000.0,2025-04-23 23:21:16.006554
+c04f56b0-b787-41a5-bac1-762545b752c5,Chaves na Mão,Condomínio,Cajazeiras,SER9,Não,Não,195,4,5,3,860.0,850000.0,2025-04-23 23:21:16.006554
+7f3a3a57-5e52-4b39-93ba-a40690982fc2,Chaves na Mão,Condomínio,Parque Manibura,SER6,Não,Não,150,4,1,4,1020.0,790000.0,2025-04-23 23:21:16.006554
+67ee12ac-44d6-4fba-9f78-b8a6d270c24c,Chaves na Mão,Condomínio,Mondubim,SER10,Não,Não,120,3,4,2,700.0,900000.0,2025-04-23 23:21:16.006554
+1a7c0c45-02ac-4b80-870a-a057f747aa95,Chaves na Mão,Condomínio,Sabiaguaba,SER7,Não,Sim,229,3,4,5,1100.0,1179990.0,2025-04-23 23:21:16.006554
+c7fdd62e-a0a6-4a0d-b672-6f370e736e14,Chaves na Mão,Condomínio,Jangurussu,SER9,Não,Não,116,3,4,3,50.0,435000.0,2025-04-23 23:21:16.006554
+c9e399ef-a30b-48a6-8a04-88d8cc127a5c,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,186,3,4,2,1290.0,898000.0,2025-04-23 23:21:16.006554
+2e87cdd8-2149-4216-9e28-264fcf786b80,Chaves na Mão,Condomínio,Praia do Futuro,SER7,Não,Sim,441,4,6,6,2200.0,2150000.0,2025-04-23 23:21:16.006554
+9aebd167-9433-45b3-afda-13c662070661,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,65,2,3,2,330.0,210000.0,2025-04-23 23:21:16.006554
+91dac3f3-2d46-4264-a620-96e409cc70ed,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,156,3,3,2,150.0,559999.0,2025-04-23 23:21:16.006554
+6cb5b9b3-01ac-4934-91ec-2610614aad2a,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,134,4,4,2,600.0,520000.0,2025-04-23 23:21:16.006554
+7caae3c7-4b83-45e6-a73a-a40e2a374453,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,780,6,7,4,2500.0,13000000.0,2025-04-23 23:21:16.006554
+45fa7c8c-fd07-4a31-854b-91d9b5898fde,Chaves na Mão,Condomínio,de Lourdes,SER2,Não,Não,283,4,4,5,0.0,4500000.0,2025-04-23 23:21:16.006554
+bbb9256b-3607-4b6d-9d67-264e3b165057,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,86,3,3,2,0.0,547000.0,2025-04-23 23:21:16.006554
+b09c1a2e-1538-4391-a2ca-f1b08152c2c0,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,151,3,3,4,1850.0,699990.0,2025-04-23 23:21:16.006554
+221479ad-2d7d-44e1-8bdd-9754a8703c91,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,140,4,4,3,850.0,550000.0,2025-04-23 23:21:16.006554
+cc3ed8c0-7e09-4213-b3e9-8777ec185d2a,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,379,4,6,4,1500.0,2950000.0,2025-04-23 23:21:16.006554
+d88aec9f-b0ce-4659-a6b2-91af76cdfc13,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,70,2,2,1,340.0,210000.0,2025-04-23 23:21:16.006554
+0207d02c-2cde-46f0-bb27-5d834b4a4ebf,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,280,3,5,4,1200.0,1490000.0,2025-04-23 23:21:16.006554
+b518fc9c-c847-4910-adc8-c9d6e0258059,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,60,2,2,2,400.0,210000.0,2025-04-23 23:21:16.006554
+692c0fd8-5b3e-4e02-8ca0-c76219696d52,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,125,3,4,2,0.0,740000.0,2025-04-23 23:21:16.006554
+554eefcc-a667-4afa-b3c1-cfe9918356c5,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,165,4,5,3,1516.0,790000.0,2025-04-23 23:21:16.006554
+4977f169-01ad-466a-8f95-fcd46fed037d,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,390,3,3,6,0.0,1780000.0,2025-04-23 23:21:16.006554
+7f4d6bef-07c5-442f-aeb3-fb4a4e62d8a7,Chaves na Mão,Condomínio,Messejana,SER6,Não,Não,120,2,2,2,180.0,210000.0,2025-04-23 23:21:16.006554
+23afeca0-5e48-4f6d-af5e-ee6885c0d596,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,600,4,5,4,0.0,1700000.0,2025-04-23 23:21:16.006554
+6f682f11-080b-4a16-bc75-df391a8f3ff2,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,128,3,4,2,850.0,520000.0,2025-04-23 23:21:16.006554
+8b2c7597-b35e-4cd0-b68a-5db7d5e4fc78,Chaves na Mão,Condomínio,Messejana,SER6,Não,Não,130,3,4,2,0.0,730000.0,2025-04-23 23:21:16.006554
+49f3901b-ba0a-4003-829a-132d401eca16,Chaves na Mão,Condomínio,Edson Queiroz,SER7,Não,Não,178,4,4,3,1550.0,1220000.0,2025-04-23 23:21:16.006554
+3bbfb4dd-fbcd-46b1-80dc-7e9d455869d0,Chaves na Mão,Condomínio,Coité,Outros,Não,Não,133,4,4,3,550.0,465000.0,2025-04-23 23:21:16.006554
+3e3ecf15-5d4b-446a-a9c5-39ca0629a328,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,187,3,4,3,0.0,895000.0,2025-04-23 23:21:16.006554
+1db52959-ecb9-4554-8b11-6a4f409548fa,Chaves na Mão,Condomínio,Eusébio,Outros,Não,Não,170,3,4,4,1250.0,840000.0,2025-04-23 23:21:16.006554
+f65e0590-ca5b-4e76-9d38-a94ac5889b96,Chaves na Mão,Condomínio,Jardim das Oliveiras,SER6,Não,Não,202,4,5,2,0.0,820000.0,2025-04-23 23:21:16.006554
+4a99c838-0079-48e7-ba80-613aa5924ab4,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,86,3,3,2,600.0,350000.0,2025-04-23 23:21:16.006554
+f279d333-906f-4c73-9fc9-80d02758b9b0,Chaves na Mão,Condomínio,Centro,SER12,Não,Não,741,10,3,7,6257.0,2900000.0,2025-04-23 23:21:16.006554
+2506a27b-fa50-451a-9342-acdb39a202ef,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,148,3,1,3,0.0,1102451.0,2025-04-23 23:21:16.006554
+cec64adc-a58a-46ba-bf19-d4ed68c2c814,Chaves na Mão,Condomínio,José de Alencar,SER6,Não,Não,277,3,5,2,2000.0,1300000.0,2025-04-23 23:21:16.006554
+55596256-78fe-4668-95f3-ecf7f42a3672,Chaves na Mão,Condomínio,Alphaville Fortaleza,Outros,Não,Não,425,5,7,4,1250.0,3900000.0,2025-04-23 23:21:16.006554
+f4392eaf-2f85-4f42-8180-e96326d813f7,Chaves na Mão,Condomínio,Sapiranga,SER7,Não,Não,229,3,4,3,1627.0,1400000.0,2025-04-23 23:21:16.006554
+696dd09d-888e-45bf-bf56-9e6af2c9610e,Chaves na Mão,Condomínio,Cidade dos Funcionários,SER6,Não,Não,213,4,4,2,1200.0,760577.0,2025-04-23 23:21:16.006554
+72ded8ba-ce3b-4b90-bf6c-ac1f33512851,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,90,3,2,3,650.0,490000.0,2025-04-23 23:21:16.006554
+abb3157d-6b76-404e-891c-4ba64a8f3b4e,Chaves na Mão,Condomínio,Maraponga,SER10,Não,Não,230,4,4,4,650.0,1199000.0,2025-04-23 23:21:16.006554
+c9f5dbcf-02f5-4694-87f8-56093815830d,Chaves na Mão,Condomínio,Papicu,SER2,Não,Não,250,3,4,5,0.0,690000.0,2025-04-23 23:21:16.006554
+0eda20a6-b235-4229-a23c-dbb1be9fd0f2,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,151,3,4,4,1850.0,699990.0,2025-04-23 23:21:16.006554
+f7e50b2c-63d8-4d91-8379-83c0a0978f03,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,130,4,3,2,0.0,590000.0,2025-04-23 23:21:16.006554
+25850450-c2e5-462b-8e68-5c682cb07898,Chaves na Mão,Condomínio,Patriolino Ribeiro,SER7,Não,Não,700,4,6,12,1500.0,2640000.0,2025-04-23 23:21:16.006554
+3a990313-1d47-4800-9fc1-73fdc502f8a7,Chaves na Mão,Condomínio,Cambeba,SER6,Não,Não,226,4,4,3,140.0,850000.0,2025-04-23 23:21:16.006554
+a161cb0d-5e44-4399-a458-8d8c79b5ecc6,Chaves na Mão,Condomínio,Prefeito José Walter,SER8,Não,Não,200,5,3,1,0.0,270000.0,2025-04-23 23:21:16.006554
+fb935329-a226-4048-ab02-d5fd0a907679,Chaves na Mão,Condomínio,Passaré,SER8,Não,Não,120,3,3,2,50.0,480000.0,2025-04-23 23:21:16.006554
+8b7772f7-d845-46f3-baec-3ff0e8253b45,Chaves na Mão,Condomínio,Parquelândia,SER3,Não,Não,290,7,5,3,0.0,580000.0,2025-04-23 23:21:16.006554
+cf797477-9cbf-4782-bcaf-28fbf72d0409,Chaves na Mão,Condomínio,Parque Manibura,SER6,Não,Não,192,4,5,4,0.0,660000.0,2025-04-23 23:21:16.006554
+52e5c5a3-1571-4018-9680-53fd5afdee63,Chaves na Mão,Condomínio,Engenheiro Luciano Cavalcante,SER7,Não,Não,128,2,2,2,0.0,320000.0,2025-04-23 23:21:16.006554
+67c278ae-5b59-4fb3-9ed0-18d6a1892ed3,Chaves na Mão,Condomínio,Papicu,SER2,Não,Não,149,3,3,3,85.0,470000.0,2025-04-23 23:21:16.006554
+8e154eff-d4b0-4827-bb0c-af189ba0906e,Chaves na Mão,Condomínio,Parquelândia,SER3,Não,Não,250,4,5,8,0.0,1500000.0,2025-04-23 23:21:16.006554
+92b7fb79-19c3-4a36-98ed-7799cacb3ed1,Chaves na Mão,Condomínio,Centro,SER12,Não,Não,960,9,9,4,0.0,2350000.0,2025-04-23 23:21:16.006554
+433b9ac2-5a6c-41a6-be94-e06eec37f164,Chaves na Mão,Condomínio,Lagoa Redonda,SER6,Não,Não,98,3,3,4,0.0,449000.0,2025-04-23 23:21:16.006554
