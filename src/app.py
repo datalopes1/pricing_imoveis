@@ -262,6 +262,9 @@ with tab_dash:
     # Dados do dataframe
     st.markdown("**Dados originais**")
     st.dataframe(df_filtrado)
+    
+    st.markdown("---")
+    st.markdown("Desenvolvido por [André Lopes](https://www.linkedin.com/in/andreluizls1/) (Abril 2025)")
 
 with tab_report:
     st.subheader("📝 Relatório de Análise")
@@ -494,3 +497,6 @@ with tab_report:
         - As variáveis que tem maior influência no preço de imóvel são o número de banheiros, vagas de garagem e áreea. O número de quartos tem uma influência menor, sendo alguns padrões de oferta comuns imóveis com 3 quartos e 2 a 3 banheiros.
         """
     )
+
+    st.markdown("---")
+    st.markdown("Desenvolvido por [André Lopes](https://www.linkedin.com/in/andreluizls1/) (Abril 2025)")

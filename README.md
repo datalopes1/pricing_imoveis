@@ -21,7 +21,7 @@ Este projeto foi desenvolvido utilizando:
 - 📈 Plotly (Visualização de Dados)
 
 ## 🚀 Como Executar
-Acesse a aplicação web no [Streamlit Cloud]().
+Acesse a aplicação web no [Streamlit Cloud](https://pricingimoveis-fortaleza.streamlit.app/).
 
 #### Execução
 1️⃣ **Clone o repositório**
@@ -46,9 +46,32 @@ pip install -r requirements.txt
 ```bash
 streamlit run src/app.py
 ```
-
-
 ## 📊 Estrutura do Projeto
+```plain_text
+telecom-churn/
+│-- data/                       
+|   ├── raw/                    # Dados brutos
+|   ├── interim/                # Dados provisórios   
+|   ├── processed/              # Dados tratados
+|   ├── imv_database.db         # Banco de Dados sqlite
+|-- docs/
+|   ├── img/                    # Imagens utilizadas
+|   ├── pricing.pdf             # Versão PDF da EDA
+|-- notebooks
+|   ├── pricing.ipynb           # Notebook de Análise Exploratória de Dados
+|-- src/                         
+|   ├── extract/                # Scripts utilizados para Web Scraping
+|   ├── load/                   # Scripts de ingestão dos dados
+|   ├── transform/              # Scripts de tratamento dos dados
+|   ├── app.py                  # Aplicação do Streamlit
+|-- .gitignore                  # Arquivos ignorados pelo Git
+|-- app.py                      # Aplicação do Streamlit
+|-- LICENSE.md                  # Licença
+|-- poetry.lock                 # Configuração do Poetry e dependências do projeto
+|-- pyproject.toml              # Versões exatas das dependências instaladas
+|-- README.md                   # Documentação do projeto
+|-- requirements.txt            # Lista de dependências
+```
 
 ## 🗒️ Licença
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
