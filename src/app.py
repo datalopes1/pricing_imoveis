@@ -135,14 +135,14 @@ with st.sidebar:
     bairros_unicos = df['localizacao'].unique()
     bairros_selecionados = st.multiselect("Bairro", bairros_unicos)
 
-    # Filtro por Faixa de Preço
-    preco_min, preco_max = int(df['preco'].min()), int(df['preco'].max())
-    preco_range = st.slider("Faixa de Preço (R$)", preco_min, preco_max, (preco_min, preco_max))
-
     # Filtro por SER (se presente nos seus dados)
     if 'ser' in df.columns:
         sers_unicos = df['ser'].unique()
-        ser_selecionado = st.selectbox("SER", ['Todos'] + list(sers_unicos))
+        ser_selecionado = st.selectbox("Secretaria Regional Executiva", ['Todos'] + list(sers_unicos))
+
+    # Filtro por Faixa de Preço
+    preco_min, preco_max = int(df['preco'].min()), int(df['preco'].max())
+    preco_range = st.slider("Faixa de Preço (R$)", preco_min, preco_max, (preco_min, preco_max))
 
 # ----- FILTRAGEM DOS DADOS -----
 
@@ -276,7 +276,7 @@ with tab_report:
 
         **Insights-chave**:
 
-        - Os bairros mais valorizados da cidade se encontram na Secretária Regional Executiva (SER) 2.
+        - Os bairros mais valorizados da cidade se encontram na Secretaria Regional Executiva Regional Executiva (SER) 2.
         - O bairro Parque Iracema apresenta bom potencial para investimentos, os bairros mais valorizados são Mucuripe, Meireles e Guararapes.
         - O número de banheiros e vagas de garagem tem maior influência no preço que o número de quartos.
 
@@ -305,7 +305,7 @@ with tab_report:
         |`origem`|Site de onde os dados foram coletados|
         |`tipo`|Tipo de imóvel|
         |`localizacao`|Bairro de Fortaleza/CE|
-        |`ser`|Secretária Executiva Regional do bairro|
+        |`ser`|Secretaria Regional Executiva Executiva Regional do bairro|
         |`prox_centro`|Bairro localizado próximo ao Centro|
         |`prox_orla`|Bairro próximo à orla maritima|
         |`area`|Área em metros quadrados|
@@ -365,7 +365,7 @@ with tab_report:
 
     st.markdown(
         """
-        A oferta de imóveis se concentra em bairros da Secretária Executiva Regional (SER) 2 e 7. São áreas próximas ao centro e de bairros nobres da capital cearense, por tanto privilegiadas para o mercado imobiliário. 
+        A oferta de imóveis se concentra em bairros da Secretaria Regional Executiva Executiva Regional (SER) 2 e 7. São áreas próximas ao centro e de bairros nobres da capital cearense, por tanto privilegiadas para o mercado imobiliário. 
         """
     )
 
@@ -374,7 +374,7 @@ with tab_report:
     col5, col6 = st.columns(2)
     with col5:
         st.plotly_chart(
-            plot_bar(ser, 'Distribuição de Imóveis por SER', 'ser', 'count', 'Secretária Executiva Regional', 'Contagem'), use_container_width=True
+            plot_bar(ser, 'Distribuição de Imóveis por SER', 'ser', 'count', 'Secretaria Regional Executiva Executiva Regional', 'Contagem'), use_container_width=True
         )
     with col6:
         img = 'doc/img/JktxiIv.png'
@@ -490,7 +490,7 @@ with tab_report:
         """
         #### Conclusões e recomendações
         - O tipo de imóvel mais amplamente ofertado são apartamentos, também são os imóveis mais acessíveis. Casas dentro e foram de condomínios começam a aparecer em ofertas a partir de R$ 300.000,00. 
-        - Os bairros das Secretárias Executiva Regionais (SER) 2 e 7 são os mais valorizados e com maior número de imóveis ofertados. 
+        - Os bairros das Secretaria Regional Executivas Executiva Regionais (SER) 2 e 7 são os mais valorizados e com maior número de imóveis ofertados. 
         - Mucuripe, Meireles e Guararapes se demonstram bairros com alto potencial de investimento por seu alto valor de metro quadrado, mas isso exige altos aportes, assim como o bairro de Lourdes. O Parque Iracema também possui um alto valor no preço do metro quadrado, ele está localizado na SER 6, e é próximo de bairros como Messejana, Cambeba e Cajazeiras que possuem um grande extensão territorial.
         - Bairros da SER 4 como Benfica e Fátima também apresentam bom potencial de investimento pela proximidade com o centro e infraestrutura urbana.  
         - As variáveis que tem maior influência no preço de imóvel são o número de banheiros, vagas de garagem e áreea. O número de quartos tem uma influência menor, sendo alguns padrões de oferta comuns imóveis com 3 quartos e 2 a 3 banheiros.
