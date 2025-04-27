@@ -377,7 +377,7 @@ with tab_report:
             plot_bar(ser, 'Distribuição de Imóveis por SER', 'ser', 'count', 'Secretária Executiva Regional', 'Contagem'), use_container_width=True
         )
     with col6:
-        img = 'doc/img/JktxiIv - Imgur.png'
+        img = 'doc/img/JktxiIv.png'
         st.image(img, use_container_width=True)
 
     st.markdown(
@@ -490,10 +490,9 @@ with tab_report:
         """
         #### Conclusões e recomendações
         - O tipo de imóvel mais amplamente ofertado são apartamentos, também são os imóveis mais acessíveis. Casas dentro e foram de condomínios começam a aparecer em ofertas a partir de R$ 300.000,00. 
-        - Os imóveis disponíveis se concetram abaixo dos 100m² de área. 
         - Os bairros das Secretárias Executiva Regionais (SER) 2 e 7 são os mais valorizados e com maior número de imóveis ofertados. 
         - Mucuripe, Meireles e Guararapes se demonstram bairros com alto potencial de investimento por seu alto valor de metro quadrado, mas isso exige altos aportes, assim como o bairro de Lourdes. O Parque Iracema também possui um alto valor no preço do metro quadrado, ele está localizado na SER 6, e é próximo de bairros como Messejana, Cambeba e Cajazeiras que possuem um grande extensão territorial.
-        - Bairros da SER 4 como Benfica e Fátima também apresentam bons potenciais de investimento pela proximidade com o centro. 
+        - Bairros da SER 4 como Benfica e Fátima também apresentam bom potencial de investimento pela proximidade com o centro e infraestrutura urbana.  
         - As variáveis que tem maior influência no preço de imóvel são o número de banheiros, vagas de garagem e áreea. O número de quartos tem uma influência menor, sendo alguns padrões de oferta comuns imóveis com 3 quartos e 2 a 3 banheiros.
         """
     )
