@@ -48,7 +48,7 @@ streamlit run src/app.py
 ```
 ## 📊 Estrutura do Projeto
 ```plain_text
-telecom-churn/
+pricing_imoveis/
 │-- data/                       
 |   ├── raw/                    # Dados brutos
 |   ├── interim/                # Dados provisórios   
